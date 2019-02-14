@@ -1,0 +1,2006 @@
+2019-02-09 18:30:51,854 [foofighter_wrapper] INFO: Import agent code from "agent_code/foofighter/callbacks.py"
+2019-02-09 18:30:51,867 [foofighter_wrapper] INFO: Initialize agent code
+2019-02-09 18:30:51,867 [foofighter_code] DEBUG: Successfully entered setup code
+2019-02-09 18:30:54,464 [foofighter_wrapper] INFO: STARTING ROUND #1
+2019-02-09 18:30:54,581 [foofighter_wrapper] INFO: STARTING STEP 1
+2019-02-09 18:30:54,581 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:54,582 [foofighter_code] DEBUG: Valid actions: ['RIGHT', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:30:54,587 [foofighter_code] DEBUG: Suitable target found at (1, 2)
+2019-02-09 18:30:54,587 [foofighter_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-02-09 18:30:54,675 [foofighter_wrapper] INFO: STARTING STEP 2
+2019-02-09 18:30:54,675 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:54,676 [foofighter_code] DEBUG: Valid actions: ['UP', 'WAIT', 'BOMB']
+2019-02-09 18:30:54,678 [foofighter_code] DEBUG: Suitable target found at (1, 2)
+2019-02-09 18:30:54,678 [foofighter_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-02-09 18:30:54,777 [foofighter_wrapper] INFO: STARTING STEP 3
+2019-02-09 18:30:54,777 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:54,778 [foofighter_code] DEBUG: Valid actions: ['UP']
+2019-02-09 18:30:54,781 [foofighter_code] DEBUG: Suitable target found at (4, 1)
+2019-02-09 18:30:54,781 [foofighter_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-02-09 18:30:54,879 [foofighter_wrapper] INFO: STARTING STEP 4
+2019-02-09 18:30:54,879 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:54,879 [foofighter_code] DEBUG: Valid actions: ['RIGHT', 'WAIT']
+2019-02-09 18:30:54,881 [foofighter_code] DEBUG: Suitable target found at (4, 1)
+2019-02-09 18:30:54,881 [foofighter_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-02-09 18:30:54,981 [foofighter_wrapper] INFO: STARTING STEP 5
+2019-02-09 18:30:54,981 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:54,982 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-02-09 18:30:54,984 [foofighter_code] DEBUG: Suitable target found at (3, 2)
+2019-02-09 18:30:54,984 [foofighter_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-02-09 18:30:55,103 [foofighter_wrapper] INFO: STARTING STEP 6
+2019-02-09 18:30:55,103 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:55,103 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-02-09 18:30:55,105 [foofighter_code] DEBUG: Suitable target found at (4, 1)
+2019-02-09 18:30:55,105 [foofighter_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-02-09 18:30:55,192 [foofighter_wrapper] INFO: STARTING STEP 7
+2019-02-09 18:30:55,193 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:55,194 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'WAIT']
+2019-02-09 18:30:55,196 [foofighter_code] DEBUG: Suitable target found at (4, 1)
+2019-02-09 18:30:55,196 [foofighter_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-02-09 18:30:55,292 [foofighter_wrapper] INFO: STARTING STEP 8
+2019-02-09 18:30:55,292 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:55,293 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:30:55,294 [foofighter_code] DEBUG: Suitable target found at (3, 2)
+2019-02-09 18:30:55,294 [foofighter_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-02-09 18:30:55,394 [foofighter_wrapper] INFO: STARTING STEP 9
+2019-02-09 18:30:55,395 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:55,395 [foofighter_code] DEBUG: Valid actions: ['UP', 'WAIT', 'BOMB']
+2019-02-09 18:30:55,396 [foofighter_code] DEBUG: Suitable target found at (3, 2)
+2019-02-09 18:30:55,396 [foofighter_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-02-09 18:30:55,497 [foofighter_wrapper] INFO: STARTING STEP 10
+2019-02-09 18:30:55,497 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:55,497 [foofighter_code] DEBUG: Valid actions: ['UP']
+2019-02-09 18:30:55,500 [foofighter_code] DEBUG: Suitable target found at (4, 1)
+2019-02-09 18:30:55,500 [foofighter_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-02-09 18:30:55,598 [foofighter_wrapper] INFO: STARTING STEP 11
+2019-02-09 18:30:55,599 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:55,599 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-02-09 18:30:55,601 [foofighter_code] DEBUG: Suitable target found at (4, 1)
+2019-02-09 18:30:55,601 [foofighter_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-02-09 18:30:55,700 [foofighter_wrapper] INFO: STARTING STEP 12
+2019-02-09 18:30:55,701 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:55,701 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'WAIT']
+2019-02-09 18:30:55,703 [foofighter_code] DEBUG: Suitable target found at (4, 1)
+2019-02-09 18:30:55,704 [foofighter_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-02-09 18:30:55,802 [foofighter_wrapper] INFO: STARTING STEP 13
+2019-02-09 18:30:55,803 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:55,803 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT']
+2019-02-09 18:30:55,804 [foofighter_code] DEBUG: Suitable target found at (4, 1)
+2019-02-09 18:30:55,805 [foofighter_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-02-09 18:30:55,905 [foofighter_wrapper] INFO: STARTING STEP 14
+2019-02-09 18:30:55,905 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:55,905 [foofighter_code] DEBUG: Valid actions: ['WAIT']
+2019-02-09 18:30:55,906 [foofighter_code] DEBUG: Suitable target found at (4, 1)
+2019-02-09 18:30:55,907 [foofighter_wrapper] INFO: Chose action WAIT after 0.002s of thinking
+2019-02-09 18:30:56,010 [foofighter_wrapper] INFO: STARTING STEP 15
+2019-02-09 18:30:56,011 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:56,011 [foofighter_code] DEBUG: Valid actions: ['WAIT', 'BOMB']
+2019-02-09 18:30:56,012 [foofighter_code] DEBUG: Suitable target found at (4, 1)
+2019-02-09 18:30:56,012 [foofighter_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-02-09 18:30:56,111 [foofighter_wrapper] INFO: STARTING STEP 16
+2019-02-09 18:30:56,111 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:56,112 [foofighter_code] DEBUG: Valid actions: ['LEFT']
+2019-02-09 18:30:56,115 [foofighter_code] DEBUG: Suitable target found at (3, 5)
+2019-02-09 18:30:56,115 [foofighter_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-02-09 18:30:56,245 [foofighter_wrapper] INFO: STARTING STEP 17
+2019-02-09 18:30:56,246 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:56,246 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'DOWN', 'WAIT']
+2019-02-09 18:30:56,251 [foofighter_code] DEBUG: Suitable target found at (3, 5)
+2019-02-09 18:30:56,251 [foofighter_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-02-09 18:30:56,344 [foofighter_wrapper] INFO: STARTING STEP 18
+2019-02-09 18:30:56,345 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:56,345 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2019-02-09 18:30:56,347 [foofighter_code] DEBUG: Suitable target found at (3, 5)
+2019-02-09 18:30:56,347 [foofighter_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-02-09 18:30:56,446 [foofighter_wrapper] INFO: STARTING STEP 19
+2019-02-09 18:30:56,447 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:56,447 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2019-02-09 18:30:56,450 [foofighter_code] DEBUG: Suitable target found at (3, 5)
+2019-02-09 18:30:56,450 [foofighter_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-02-09 18:30:56,560 [foofighter_wrapper] INFO: STARTING STEP 20
+2019-02-09 18:30:56,560 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:56,560 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2019-02-09 18:30:56,561 [foofighter_code] DEBUG: Suitable target found at (3, 5)
+2019-02-09 18:30:56,562 [foofighter_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-02-09 18:30:56,651 [foofighter_wrapper] INFO: STARTING STEP 21
+2019-02-09 18:30:56,651 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:56,652 [foofighter_code] DEBUG: Valid actions: ['UP', 'WAIT', 'BOMB']
+2019-02-09 18:30:56,654 [foofighter_code] DEBUG: Suitable target found at (3, 5)
+2019-02-09 18:30:56,654 [foofighter_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-02-09 18:30:56,751 [foofighter_wrapper] INFO: STARTING STEP 22
+2019-02-09 18:30:56,752 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:56,752 [foofighter_code] DEBUG: Valid actions: ['UP']
+2019-02-09 18:30:56,755 [foofighter_code] DEBUG: Suitable target found at (5, 3)
+2019-02-09 18:30:56,756 [foofighter_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-02-09 18:30:56,854 [foofighter_wrapper] INFO: STARTING STEP 23
+2019-02-09 18:30:56,855 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:56,855 [foofighter_code] DEBUG: Valid actions: ['UP', 'WAIT']
+2019-02-09 18:30:56,858 [foofighter_code] DEBUG: Suitable target found at (5, 3)
+2019-02-09 18:30:56,858 [foofighter_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-02-09 18:30:56,961 [foofighter_wrapper] INFO: STARTING STEP 24
+2019-02-09 18:30:56,962 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:56,962 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2019-02-09 18:30:56,965 [foofighter_code] DEBUG: Suitable target found at (5, 3)
+2019-02-09 18:30:56,965 [foofighter_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-02-09 18:30:57,063 [foofighter_wrapper] INFO: STARTING STEP 25
+2019-02-09 18:30:57,063 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:57,063 [foofighter_code] DEBUG: Valid actions: ['UP']
+2019-02-09 18:30:57,066 [foofighter_code] DEBUG: Suitable target found at (5, 3)
+2019-02-09 18:30:57,066 [foofighter_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-02-09 18:30:57,165 [foofighter_wrapper] INFO: STARTING STEP 26
+2019-02-09 18:30:57,165 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:57,166 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-02-09 18:30:57,168 [foofighter_code] DEBUG: Suitable target found at (5, 3)
+2019-02-09 18:30:57,169 [foofighter_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-02-09 18:30:57,279 [foofighter_wrapper] INFO: STARTING STEP 27
+2019-02-09 18:30:57,279 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:57,280 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-02-09 18:30:57,283 [foofighter_code] DEBUG: Suitable target found at (5, 3)
+2019-02-09 18:30:57,283 [foofighter_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-02-09 18:30:57,375 [foofighter_wrapper] INFO: STARTING STEP 28
+2019-02-09 18:30:57,375 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:57,376 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:30:57,377 [foofighter_code] DEBUG: Suitable target found at (5, 3)
+2019-02-09 18:30:57,378 [foofighter_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-02-09 18:30:57,477 [foofighter_wrapper] INFO: STARTING STEP 29
+2019-02-09 18:30:57,477 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:57,477 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:30:57,478 [foofighter_code] DEBUG: Suitable target found at (5, 3)
+2019-02-09 18:30:57,478 [foofighter_wrapper] INFO: Chose action DOWN after 0.001s of thinking
+2019-02-09 18:30:57,587 [foofighter_wrapper] INFO: STARTING STEP 30
+2019-02-09 18:30:57,588 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:57,588 [foofighter_code] DEBUG: Valid actions: ['UP', 'WAIT', 'BOMB']
+2019-02-09 18:30:57,589 [foofighter_code] DEBUG: Suitable target found at (5, 3)
+2019-02-09 18:30:57,589 [foofighter_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-02-09 18:30:57,687 [foofighter_wrapper] INFO: STARTING STEP 31
+2019-02-09 18:30:57,687 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:57,688 [foofighter_code] DEBUG: Valid actions: ['UP']
+2019-02-09 18:30:57,692 [foofighter_code] DEBUG: Suitable target found at (7, 2)
+2019-02-09 18:30:57,692 [foofighter_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-02-09 18:30:57,789 [foofighter_wrapper] INFO: STARTING STEP 32
+2019-02-09 18:30:57,789 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:57,789 [foofighter_code] DEBUG: Valid actions: ['UP', 'WAIT']
+2019-02-09 18:30:57,793 [foofighter_code] DEBUG: Suitable target found at (7, 2)
+2019-02-09 18:30:57,793 [foofighter_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-02-09 18:30:57,893 [foofighter_wrapper] INFO: STARTING STEP 33
+2019-02-09 18:30:57,893 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:57,893 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT']
+2019-02-09 18:30:57,895 [foofighter_code] DEBUG: Suitable target found at (7, 2)
+2019-02-09 18:30:57,896 [foofighter_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-02-09 18:30:57,995 [foofighter_wrapper] INFO: STARTING STEP 34
+2019-02-09 18:30:57,995 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:57,995 [foofighter_code] DEBUG: Valid actions: ['RIGHT', 'WAIT']
+2019-02-09 18:30:57,998 [foofighter_code] DEBUG: Suitable target found at (7, 2)
+2019-02-09 18:30:57,998 [foofighter_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-02-09 18:30:58,096 [foofighter_wrapper] INFO: STARTING STEP 35
+2019-02-09 18:30:58,097 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:58,097 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'DOWN', 'WAIT']
+2019-02-09 18:30:58,099 [foofighter_code] DEBUG: Suitable target found at (7, 2)
+2019-02-09 18:30:58,100 [foofighter_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-02-09 18:30:58,198 [foofighter_wrapper] INFO: STARTING STEP 36
+2019-02-09 18:30:58,199 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:58,199 [foofighter_code] DEBUG: Valid actions: ['UP', 'WAIT', 'BOMB']
+2019-02-09 18:30:58,202 [foofighter_code] DEBUG: Suitable target found at (8, 3)
+2019-02-09 18:30:58,202 [foofighter_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-02-09 18:30:58,300 [foofighter_wrapper] INFO: STARTING STEP 37
+2019-02-09 18:30:58,301 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:58,301 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:30:58,303 [foofighter_code] DEBUG: Suitable target found at (8, 3)
+2019-02-09 18:30:58,303 [foofighter_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-02-09 18:30:58,403 [foofighter_wrapper] INFO: STARTING STEP 38
+2019-02-09 18:30:58,403 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:58,403 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:30:58,405 [foofighter_code] DEBUG: Suitable target found at (8, 3)
+2019-02-09 18:30:58,405 [foofighter_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-02-09 18:30:58,504 [foofighter_wrapper] INFO: STARTING STEP 39
+2019-02-09 18:30:58,505 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:58,505 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT', 'BOMB']
+2019-02-09 18:30:58,506 [foofighter_code] DEBUG: Suitable target found at (8, 3)
+2019-02-09 18:30:58,507 [foofighter_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-02-09 18:30:58,606 [foofighter_wrapper] INFO: STARTING STEP 40
+2019-02-09 18:30:58,607 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:58,607 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'WAIT', 'BOMB']
+2019-02-09 18:30:58,608 [foofighter_code] DEBUG: Suitable target found at (8, 3)
+2019-02-09 18:30:58,608 [foofighter_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-02-09 18:30:58,708 [foofighter_wrapper] INFO: STARTING STEP 41
+2019-02-09 18:30:58,709 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:58,709 [foofighter_code] DEBUG: Valid actions: ['LEFT']
+2019-02-09 18:30:58,711 [foofighter_code] DEBUG: Suitable target found at (5, 4)
+2019-02-09 18:30:58,711 [foofighter_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-02-09 18:30:58,810 [foofighter_wrapper] INFO: STARTING STEP 42
+2019-02-09 18:30:58,810 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:58,810 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'UP', 'WAIT']
+2019-02-09 18:30:58,812 [foofighter_code] DEBUG: Suitable target found at (5, 4)
+2019-02-09 18:30:58,813 [foofighter_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-02-09 18:30:58,912 [foofighter_wrapper] INFO: STARTING STEP 43
+2019-02-09 18:30:58,913 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:58,913 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2019-02-09 18:30:58,915 [foofighter_code] DEBUG: Suitable target found at (5, 4)
+2019-02-09 18:30:58,915 [foofighter_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-02-09 18:30:59,014 [foofighter_wrapper] INFO: STARTING STEP 44
+2019-02-09 18:30:59,015 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:59,015 [foofighter_code] DEBUG: Valid actions: ['UP']
+2019-02-09 18:30:59,018 [foofighter_code] DEBUG: Suitable target found at (5, 4)
+2019-02-09 18:30:59,019 [foofighter_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-02-09 18:30:59,116 [foofighter_wrapper] INFO: STARTING STEP 45
+2019-02-09 18:30:59,116 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:59,117 [foofighter_code] DEBUG: Valid actions: ['UP', 'WAIT']
+2019-02-09 18:30:59,121 [foofighter_code] DEBUG: Suitable target found at (5, 4)
+2019-02-09 18:30:59,121 [foofighter_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-02-09 18:30:59,218 [foofighter_wrapper] INFO: STARTING STEP 46
+2019-02-09 18:30:59,218 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:59,219 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:30:59,223 [foofighter_code] DEBUG: Suitable target found at (5, 4)
+2019-02-09 18:30:59,223 [foofighter_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-02-09 18:30:59,325 [foofighter_wrapper] INFO: STARTING STEP 47
+2019-02-09 18:30:59,325 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:59,325 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:30:59,329 [foofighter_code] DEBUG: Suitable target found at (5, 4)
+2019-02-09 18:30:59,329 [foofighter_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-02-09 18:30:59,426 [foofighter_wrapper] INFO: STARTING STEP 48
+2019-02-09 18:30:59,426 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:59,427 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:30:59,429 [foofighter_code] DEBUG: Suitable target found at (5, 4)
+2019-02-09 18:30:59,429 [foofighter_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-02-09 18:30:59,528 [foofighter_wrapper] INFO: STARTING STEP 49
+2019-02-09 18:30:59,529 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:59,529 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:30:59,530 [foofighter_code] DEBUG: Suitable target found at (5, 4)
+2019-02-09 18:30:59,531 [foofighter_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-02-09 18:30:59,629 [foofighter_wrapper] INFO: STARTING STEP 50
+2019-02-09 18:30:59,629 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:59,630 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
+2019-02-09 18:30:59,632 [foofighter_code] DEBUG: Suitable target found at (5, 4)
+2019-02-09 18:30:59,632 [foofighter_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-02-09 18:30:59,731 [foofighter_wrapper] INFO: STARTING STEP 51
+2019-02-09 18:30:59,731 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:59,732 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:30:59,734 [foofighter_code] DEBUG: Suitable target found at (6, 5)
+2019-02-09 18:30:59,734 [foofighter_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-02-09 18:30:59,833 [foofighter_wrapper] INFO: STARTING STEP 52
+2019-02-09 18:30:59,833 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:59,833 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:30:59,835 [foofighter_code] DEBUG: Suitable target found at (6, 5)
+2019-02-09 18:30:59,835 [foofighter_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-02-09 18:30:59,935 [foofighter_wrapper] INFO: STARTING STEP 53
+2019-02-09 18:30:59,935 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:30:59,935 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'WAIT', 'BOMB']
+2019-02-09 18:30:59,936 [foofighter_code] DEBUG: Suitable target found at (6, 5)
+2019-02-09 18:30:59,936 [foofighter_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-02-09 18:31:00,052 [foofighter_wrapper] INFO: STARTING STEP 54
+2019-02-09 18:31:00,052 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:00,052 [foofighter_code] DEBUG: Valid actions: ['LEFT']
+2019-02-09 18:31:00,055 [foofighter_code] DEBUG: Suitable target found at (5, 6)
+2019-02-09 18:31:00,055 [foofighter_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-02-09 18:31:00,138 [foofighter_wrapper] INFO: STARTING STEP 55
+2019-02-09 18:31:00,139 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:00,139 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN', 'WAIT']
+2019-02-09 18:31:00,140 [foofighter_code] DEBUG: Suitable target found at (5, 6)
+2019-02-09 18:31:00,141 [foofighter_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-02-09 18:31:00,241 [foofighter_wrapper] INFO: STARTING STEP 56
+2019-02-09 18:31:00,241 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:00,242 [foofighter_code] DEBUG: Valid actions: ['UP', 'WAIT']
+2019-02-09 18:31:00,243 [foofighter_code] DEBUG: Suitable target found at (5, 6)
+2019-02-09 18:31:00,244 [foofighter_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-02-09 18:31:00,343 [foofighter_wrapper] INFO: STARTING STEP 57
+2019-02-09 18:31:00,343 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:00,344 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN']
+2019-02-09 18:31:00,346 [foofighter_code] DEBUG: Suitable target found at (5, 6)
+2019-02-09 18:31:00,347 [foofighter_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-02-09 18:31:00,445 [foofighter_wrapper] INFO: STARTING STEP 58
+2019-02-09 18:31:00,445 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:00,446 [foofighter_code] DEBUG: Valid actions: ['WAIT']
+2019-02-09 18:31:00,448 [foofighter_code] DEBUG: Suitable target found at (5, 6)
+2019-02-09 18:31:00,448 [foofighter_wrapper] INFO: Chose action WAIT after 0.003s of thinking
+2019-02-09 18:31:00,548 [foofighter_wrapper] INFO: STARTING STEP 59
+2019-02-09 18:31:00,549 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:00,549 [foofighter_code] DEBUG: Valid actions: ['WAIT', 'BOMB']
+2019-02-09 18:31:00,550 [foofighter_code] DEBUG: Suitable target found at (5, 6)
+2019-02-09 18:31:00,550 [foofighter_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-02-09 18:31:00,650 [foofighter_wrapper] INFO: STARTING STEP 60
+2019-02-09 18:31:00,650 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:00,651 [foofighter_code] DEBUG: Valid actions: ['UP']
+2019-02-09 18:31:00,653 [foofighter_code] DEBUG: Suitable target found at (7, 6)
+2019-02-09 18:31:00,654 [foofighter_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-02-09 18:31:00,752 [foofighter_wrapper] INFO: STARTING STEP 61
+2019-02-09 18:31:00,752 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:00,752 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT']
+2019-02-09 18:31:00,756 [foofighter_code] DEBUG: Suitable target found at (9, 5)
+2019-02-09 18:31:00,757 [foofighter_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-02-09 18:31:00,854 [foofighter_wrapper] INFO: STARTING STEP 62
+2019-02-09 18:31:00,854 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:00,854 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-02-09 18:31:00,857 [foofighter_code] DEBUG: Suitable target found at (9, 5)
+2019-02-09 18:31:00,857 [foofighter_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-02-09 18:31:00,956 [foofighter_wrapper] INFO: STARTING STEP 63
+2019-02-09 18:31:00,956 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:00,957 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-02-09 18:31:00,959 [foofighter_code] DEBUG: Suitable target found at (9, 5)
+2019-02-09 18:31:00,959 [foofighter_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-02-09 18:31:01,058 [foofighter_wrapper] INFO: STARTING STEP 64
+2019-02-09 18:31:01,058 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:01,059 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-02-09 18:31:01,060 [foofighter_code] DEBUG: Suitable target found at (9, 5)
+2019-02-09 18:31:01,060 [foofighter_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-02-09 18:31:01,160 [foofighter_wrapper] INFO: STARTING STEP 65
+2019-02-09 18:31:01,161 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:01,161 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'WAIT', 'BOMB']
+2019-02-09 18:31:01,162 [foofighter_code] DEBUG: Suitable target found at (9, 5)
+2019-02-09 18:31:01,162 [foofighter_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-02-09 18:31:01,273 [foofighter_wrapper] INFO: STARTING STEP 66
+2019-02-09 18:31:01,273 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:01,273 [foofighter_code] DEBUG: Valid actions: ['LEFT']
+2019-02-09 18:31:01,276 [foofighter_code] DEBUG: Suitable target found at (4, 7)
+2019-02-09 18:31:01,276 [foofighter_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-02-09 18:31:01,369 [foofighter_wrapper] INFO: STARTING STEP 67
+2019-02-09 18:31:01,369 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:01,369 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'WAIT']
+2019-02-09 18:31:01,371 [foofighter_code] DEBUG: Suitable target found at (5, 7)
+2019-02-09 18:31:01,371 [foofighter_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-02-09 18:31:01,471 [foofighter_wrapper] INFO: STARTING STEP 68
+2019-02-09 18:31:01,471 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:01,471 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT']
+2019-02-09 18:31:01,476 [foofighter_code] DEBUG: Suitable target found at (5, 8)
+2019-02-09 18:31:01,477 [foofighter_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-02-09 18:31:01,573 [foofighter_wrapper] INFO: STARTING STEP 69
+2019-02-09 18:31:01,573 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:01,574 [foofighter_code] DEBUG: Valid actions: ['DOWN', 'WAIT']
+2019-02-09 18:31:01,576 [foofighter_code] DEBUG: Suitable target found at (5, 9)
+2019-02-09 18:31:01,576 [foofighter_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-02-09 18:31:01,678 [foofighter_wrapper] INFO: STARTING STEP 70
+2019-02-09 18:31:01,679 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:01,679 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'UP', 'WAIT']
+2019-02-09 18:31:01,681 [foofighter_code] DEBUG: Suitable target found at (6, 9)
+2019-02-09 18:31:01,682 [foofighter_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-02-09 18:31:01,780 [foofighter_wrapper] INFO: STARTING STEP 71
+2019-02-09 18:31:01,781 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:01,781 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:01,786 [foofighter_code] DEBUG: Suitable target found at (7, 9)
+2019-02-09 18:31:01,789 [foofighter_wrapper] INFO: Chose action LEFT after 0.008s of thinking
+2019-02-09 18:31:01,882 [foofighter_wrapper] INFO: STARTING STEP 72
+2019-02-09 18:31:01,882 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:01,882 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:01,889 [foofighter_code] DEBUG: Suitable target found at (6, 11)
+2019-02-09 18:31:01,890 [foofighter_wrapper] INFO: Chose action DOWN after 0.008s of thinking
+2019-02-09 18:31:01,984 [foofighter_wrapper] INFO: STARTING STEP 73
+2019-02-09 18:31:01,984 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:01,985 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:01,987 [foofighter_code] DEBUG: Suitable target found at (6, 9)
+2019-02-09 18:31:01,988 [foofighter_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-02-09 18:31:02,086 [foofighter_wrapper] INFO: STARTING STEP 74
+2019-02-09 18:31:02,086 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:02,087 [foofighter_code] DEBUG: Valid actions: ['UP', 'WAIT', 'BOMB']
+2019-02-09 18:31:02,088 [foofighter_code] DEBUG: Suitable target found at (5, 9)
+2019-02-09 18:31:02,088 [foofighter_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-02-09 18:31:02,188 [foofighter_wrapper] INFO: STARTING STEP 75
+2019-02-09 18:31:02,188 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:02,188 [foofighter_code] DEBUG: Valid actions: ['UP']
+2019-02-09 18:31:02,192 [foofighter_code] DEBUG: Suitable target found at (4, 9)
+2019-02-09 18:31:02,192 [foofighter_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-02-09 18:31:02,290 [foofighter_wrapper] INFO: STARTING STEP 76
+2019-02-09 18:31:02,290 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:02,290 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT']
+2019-02-09 18:31:02,294 [foofighter_code] DEBUG: Suitable target found at (3, 9)
+2019-02-09 18:31:02,295 [foofighter_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
+2019-02-09 18:31:02,390 [foofighter_wrapper] INFO: STARTING STEP 77
+2019-02-09 18:31:02,391 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:02,391 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'WAIT']
+2019-02-09 18:31:02,396 [foofighter_code] DEBUG: Suitable target found at (3, 8)
+2019-02-09 18:31:02,397 [foofighter_wrapper] INFO: Chose action LEFT after 0.006s of thinking
+2019-02-09 18:31:02,493 [foofighter_wrapper] INFO: STARTING STEP 78
+2019-02-09 18:31:02,493 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:02,494 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT']
+2019-02-09 18:31:02,499 [foofighter_code] DEBUG: Suitable target found at (3, 9)
+2019-02-09 18:31:02,500 [foofighter_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
+2019-02-09 18:31:02,596 [foofighter_wrapper] INFO: STARTING STEP 79
+2019-02-09 18:31:02,596 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:02,597 [foofighter_code] DEBUG: Valid actions: ['RIGHT', 'WAIT']
+2019-02-09 18:31:02,599 [foofighter_code] DEBUG: Suitable target found at (4, 9)
+2019-02-09 18:31:02,599 [foofighter_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-02-09 18:31:02,697 [foofighter_wrapper] INFO: STARTING STEP 80
+2019-02-09 18:31:02,698 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:02,698 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:02,704 [foofighter_code] DEBUG: Suitable target found at (3, 9)
+2019-02-09 18:31:02,704 [foofighter_wrapper] INFO: Chose action LEFT after 0.006s of thinking
+2019-02-09 18:31:02,799 [foofighter_wrapper] INFO: STARTING STEP 81
+2019-02-09 18:31:02,799 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:02,799 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:02,806 [foofighter_code] DEBUG: Suitable target found at (11, 6)
+2019-02-09 18:31:02,806 [foofighter_wrapper] INFO: Chose action RIGHT after 0.007s of thinking
+2019-02-09 18:31:02,901 [foofighter_wrapper] INFO: STARTING STEP 82
+2019-02-09 18:31:02,902 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:02,902 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:02,907 [foofighter_code] DEBUG: Suitable target found at (12, 9)
+2019-02-09 18:31:02,908 [foofighter_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-02-09 18:31:03,009 [foofighter_wrapper] INFO: STARTING STEP 83
+2019-02-09 18:31:03,009 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:03,010 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:03,014 [foofighter_code] DEBUG: Suitable target found at (10, 7)
+2019-02-09 18:31:03,014 [foofighter_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-02-09 18:31:03,111 [foofighter_wrapper] INFO: STARTING STEP 84
+2019-02-09 18:31:03,111 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:03,111 [foofighter_code] DEBUG: Valid actions: ['RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:03,116 [foofighter_code] DEBUG: Suitable target found at (10, 7)
+2019-02-09 18:31:03,116 [foofighter_wrapper] INFO: Chose action BOMB after 0.005s of thinking
+2019-02-09 18:31:03,213 [foofighter_wrapper] INFO: STARTING STEP 85
+2019-02-09 18:31:03,214 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:03,214 [foofighter_code] DEBUG: Valid actions: ['RIGHT', 'UP', 'DOWN']
+2019-02-09 18:31:03,218 [foofighter_code] DEBUG: Suitable target found at (10, 7)
+2019-02-09 18:31:03,218 [foofighter_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-02-09 18:31:03,327 [foofighter_wrapper] INFO: STARTING STEP 86
+2019-02-09 18:31:03,327 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:03,327 [foofighter_code] DEBUG: Valid actions: ['DOWN', 'WAIT']
+2019-02-09 18:31:03,329 [foofighter_code] DEBUG: Suitable target found at (5, 9)
+2019-02-09 18:31:03,330 [foofighter_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-02-09 18:31:03,417 [foofighter_wrapper] INFO: STARTING STEP 87
+2019-02-09 18:31:03,417 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:03,418 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
+2019-02-09 18:31:03,422 [foofighter_code] DEBUG: Suitable target found at (5, 10)
+2019-02-09 18:31:03,422 [foofighter_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
+2019-02-09 18:31:03,518 [foofighter_wrapper] INFO: STARTING STEP 88
+2019-02-09 18:31:03,518 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:03,518 [foofighter_code] DEBUG: Valid actions: ['RIGHT', 'WAIT']
+2019-02-09 18:31:03,521 [foofighter_code] DEBUG: Suitable target found at (5, 9)
+2019-02-09 18:31:03,521 [foofighter_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-02-09 18:31:03,620 [foofighter_wrapper] INFO: STARTING STEP 89
+2019-02-09 18:31:03,620 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:03,621 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'DOWN', 'WAIT']
+2019-02-09 18:31:03,624 [foofighter_code] DEBUG: Suitable target found at (5, 10)
+2019-02-09 18:31:03,624 [foofighter_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-02-09 18:31:03,735 [foofighter_wrapper] INFO: STARTING STEP 90
+2019-02-09 18:31:03,736 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:03,736 [foofighter_code] DEBUG: Valid actions: ['RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:03,739 [foofighter_code] DEBUG: Suitable target found at (5, 11)
+2019-02-09 18:31:03,740 [foofighter_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-02-09 18:31:03,831 [foofighter_wrapper] INFO: STARTING STEP 91
+2019-02-09 18:31:03,831 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:03,831 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:03,835 [foofighter_code] DEBUG: Suitable target found at (5, 10)
+2019-02-09 18:31:03,835 [foofighter_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-02-09 18:31:03,933 [foofighter_wrapper] INFO: STARTING STEP 92
+2019-02-09 18:31:03,933 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:03,933 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:03,939 [foofighter_code] DEBUG: Suitable target found at (5, 9)
+2019-02-09 18:31:03,939 [foofighter_wrapper] INFO: Chose action LEFT after 0.006s of thinking
+2019-02-09 18:31:04,035 [foofighter_wrapper] INFO: STARTING STEP 93
+2019-02-09 18:31:04,035 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:04,036 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:04,038 [foofighter_code] DEBUG: Suitable target found at (6, 9)
+2019-02-09 18:31:04,038 [foofighter_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-02-09 18:31:04,137 [foofighter_wrapper] INFO: STARTING STEP 94
+2019-02-09 18:31:04,137 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:04,138 [foofighter_code] DEBUG: Valid actions: ['DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:04,141 [foofighter_code] DEBUG: Suitable target found at (7, 9)
+2019-02-09 18:31:04,141 [foofighter_wrapper] INFO: Chose action BOMB after 0.004s of thinking
+2019-02-09 18:31:04,238 [foofighter_wrapper] INFO: STARTING STEP 95
+2019-02-09 18:31:04,239 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:04,239 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN']
+2019-02-09 18:31:04,241 [foofighter_code] DEBUG: Suitable target found at (8, 9)
+2019-02-09 18:31:04,241 [foofighter_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-02-09 18:31:04,340 [foofighter_wrapper] INFO: STARTING STEP 96
+2019-02-09 18:31:04,341 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:04,341 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT']
+2019-02-09 18:31:04,343 [foofighter_code] DEBUG: Suitable target found at (9, 9)
+2019-02-09 18:31:04,343 [foofighter_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-02-09 18:31:04,443 [foofighter_wrapper] INFO: STARTING STEP 97
+2019-02-09 18:31:04,443 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:04,443 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-02-09 18:31:04,445 [foofighter_code] DEBUG: Suitable target found at (9, 8)
+2019-02-09 18:31:04,445 [foofighter_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-02-09 18:31:04,544 [foofighter_wrapper] INFO: STARTING STEP 98
+2019-02-09 18:31:04,545 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:04,545 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT']
+2019-02-09 18:31:04,547 [foofighter_code] DEBUG: Suitable target found at (9, 7)
+2019-02-09 18:31:04,547 [foofighter_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-02-09 18:31:04,646 [foofighter_wrapper] INFO: STARTING STEP 99
+2019-02-09 18:31:04,647 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:04,647 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2019-02-09 18:31:04,649 [foofighter_code] DEBUG: Suitable target found at (10, 7)
+2019-02-09 18:31:04,649 [foofighter_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-02-09 18:31:04,749 [foofighter_wrapper] INFO: STARTING STEP 100
+2019-02-09 18:31:04,749 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:04,750 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:04,752 [foofighter_code] DEBUG: Suitable target found at (9, 2)
+2019-02-09 18:31:04,753 [foofighter_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-02-09 18:31:04,850 [foofighter_wrapper] INFO: STARTING STEP 101
+2019-02-09 18:31:04,850 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:04,850 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:04,853 [foofighter_code] DEBUG: Suitable target found at (13, 9)
+2019-02-09 18:31:04,854 [foofighter_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-02-09 18:31:04,952 [foofighter_wrapper] INFO: STARTING STEP 102
+2019-02-09 18:31:04,952 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:04,952 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT', 'BOMB']
+2019-02-09 18:31:04,954 [foofighter_code] DEBUG: Suitable target found at (9, 7)
+2019-02-09 18:31:04,954 [foofighter_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-02-09 18:31:05,053 [foofighter_wrapper] INFO: STARTING STEP 103
+2019-02-09 18:31:05,054 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:05,054 [foofighter_code] DEBUG: Valid actions: ['DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:05,055 [foofighter_code] DEBUG: Suitable target found at (9, 7)
+2019-02-09 18:31:05,056 [foofighter_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-02-09 18:31:05,157 [foofighter_wrapper] INFO: STARTING STEP 104
+2019-02-09 18:31:05,157 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:05,157 [foofighter_code] DEBUG: Valid actions: ['DOWN']
+2019-02-09 18:31:05,168 [foofighter_code] DEBUG: Suitable target found at (12, 5)
+2019-02-09 18:31:05,168 [foofighter_wrapper] INFO: Chose action DOWN after 0.011s of thinking
+2019-02-09 18:31:05,259 [foofighter_wrapper] INFO: STARTING STEP 105
+2019-02-09 18:31:05,259 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:05,259 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-02-09 18:31:05,265 [foofighter_code] DEBUG: Suitable target found at (13, 6)
+2019-02-09 18:31:05,265 [foofighter_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
+2019-02-09 18:31:05,361 [foofighter_wrapper] INFO: STARTING STEP 106
+2019-02-09 18:31:05,361 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:05,361 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-02-09 18:31:05,370 [foofighter_code] DEBUG: Suitable target found at (9, 2)
+2019-02-09 18:31:05,370 [foofighter_wrapper] INFO: Chose action LEFT after 0.009s of thinking
+2019-02-09 18:31:05,463 [foofighter_wrapper] INFO: STARTING STEP 107
+2019-02-09 18:31:05,463 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:05,463 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT']
+2019-02-09 18:31:05,469 [foofighter_code] DEBUG: Suitable target found at (9, 2)
+2019-02-09 18:31:05,469 [foofighter_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
+2019-02-09 18:31:05,565 [foofighter_wrapper] INFO: STARTING STEP 108
+2019-02-09 18:31:05,565 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:05,565 [foofighter_code] DEBUG: Valid actions: ['RIGHT', 'WAIT']
+2019-02-09 18:31:05,570 [foofighter_code] DEBUG: Suitable target found at (9, 2)
+2019-02-09 18:31:05,570 [foofighter_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
+2019-02-09 18:31:05,667 [foofighter_wrapper] INFO: STARTING STEP 109
+2019-02-09 18:31:05,667 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:05,667 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:05,674 [foofighter_code] DEBUG: Suitable target found at (13, 6)
+2019-02-09 18:31:05,674 [foofighter_wrapper] INFO: Chose action LEFT after 0.007s of thinking
+2019-02-09 18:31:05,769 [foofighter_wrapper] INFO: STARTING STEP 110
+2019-02-09 18:31:05,769 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:05,769 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:05,774 [foofighter_code] DEBUG: Suitable target found at (9, 2)
+2019-02-09 18:31:05,775 [foofighter_wrapper] INFO: Chose action LEFT after 0.006s of thinking
+2019-02-09 18:31:05,870 [foofighter_wrapper] INFO: STARTING STEP 111
+2019-02-09 18:31:05,871 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:05,871 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:05,876 [foofighter_code] DEBUG: Suitable target found at (13, 6)
+2019-02-09 18:31:05,876 [foofighter_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-02-09 18:31:05,973 [foofighter_wrapper] INFO: STARTING STEP 112
+2019-02-09 18:31:05,973 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:05,974 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2019-02-09 18:31:05,977 [foofighter_code] DEBUG: Suitable target found at (9, 2)
+2019-02-09 18:31:05,978 [foofighter_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-02-09 18:31:06,074 [foofighter_wrapper] INFO: STARTING STEP 113
+2019-02-09 18:31:06,075 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:06,075 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:06,078 [foofighter_code] DEBUG: Suitable target found at (13, 6)
+2019-02-09 18:31:06,078 [foofighter_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-02-09 18:31:06,176 [foofighter_wrapper] INFO: STARTING STEP 114
+2019-02-09 18:31:06,177 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:06,177 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'WAIT', 'BOMB']
+2019-02-09 18:31:06,180 [foofighter_code] DEBUG: Suitable target found at (9, 2)
+2019-02-09 18:31:06,180 [foofighter_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-02-09 18:31:06,278 [foofighter_wrapper] INFO: STARTING STEP 115
+2019-02-09 18:31:06,279 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:06,279 [foofighter_code] DEBUG: Valid actions: ['LEFT']
+2019-02-09 18:31:06,283 [foofighter_code] DEBUG: Suitable target found at (9, 2)
+2019-02-09 18:31:06,283 [foofighter_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-02-09 18:31:06,380 [foofighter_wrapper] INFO: STARTING STEP 116
+2019-02-09 18:31:06,381 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:06,381 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN', 'WAIT']
+2019-02-09 18:31:06,385 [foofighter_code] DEBUG: Suitable target found at (9, 2)
+2019-02-09 18:31:06,385 [foofighter_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-02-09 18:31:06,483 [foofighter_wrapper] INFO: STARTING STEP 117
+2019-02-09 18:31:06,483 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:06,483 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2019-02-09 18:31:06,487 [foofighter_code] DEBUG: Suitable target found at (9, 2)
+2019-02-09 18:31:06,488 [foofighter_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-02-09 18:31:06,584 [foofighter_wrapper] INFO: STARTING STEP 118
+2019-02-09 18:31:06,584 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:06,584 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN']
+2019-02-09 18:31:06,587 [foofighter_code] DEBUG: Suitable target found at (9, 2)
+2019-02-09 18:31:06,587 [foofighter_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-02-09 18:31:06,685 [foofighter_wrapper] INFO: STARTING STEP 119
+2019-02-09 18:31:06,686 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:06,686 [foofighter_code] DEBUG: Valid actions: ['DOWN', 'WAIT']
+2019-02-09 18:31:06,690 [foofighter_code] DEBUG: Suitable target found at (9, 2)
+2019-02-09 18:31:06,690 [foofighter_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-02-09 18:31:06,790 [foofighter_wrapper] INFO: STARTING STEP 120
+2019-02-09 18:31:06,790 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:06,790 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:06,795 [foofighter_code] DEBUG: Suitable target found at (9, 2)
+2019-02-09 18:31:06,795 [foofighter_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-02-09 18:31:06,891 [foofighter_wrapper] INFO: STARTING STEP 121
+2019-02-09 18:31:06,892 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:06,892 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2019-02-09 18:31:06,896 [foofighter_code] DEBUG: Suitable target found at (9, 2)
+2019-02-09 18:31:06,896 [foofighter_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-02-09 18:31:06,994 [foofighter_wrapper] INFO: STARTING STEP 122
+2019-02-09 18:31:06,994 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:06,994 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:06,998 [foofighter_code] DEBUG: Suitable target found at (9, 2)
+2019-02-09 18:31:06,998 [foofighter_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-02-09 18:31:07,095 [foofighter_wrapper] INFO: STARTING STEP 123
+2019-02-09 18:31:07,096 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:07,096 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:07,098 [foofighter_code] DEBUG: Suitable target found at (9, 2)
+2019-02-09 18:31:07,098 [foofighter_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-02-09 18:31:07,198 [foofighter_wrapper] INFO: STARTING STEP 124
+2019-02-09 18:31:07,198 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:07,198 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:07,200 [foofighter_code] DEBUG: Suitable target found at (9, 2)
+2019-02-09 18:31:07,200 [foofighter_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-02-09 18:31:07,299 [foofighter_wrapper] INFO: STARTING STEP 125
+2019-02-09 18:31:07,300 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:07,300 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN']
+2019-02-09 18:31:07,302 [foofighter_code] DEBUG: Suitable target found at (9, 2)
+2019-02-09 18:31:07,302 [foofighter_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-02-09 18:31:07,402 [foofighter_wrapper] INFO: STARTING STEP 126
+2019-02-09 18:31:07,402 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:07,402 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'WAIT']
+2019-02-09 18:31:07,404 [foofighter_code] DEBUG: Suitable target found at (9, 2)
+2019-02-09 18:31:07,404 [foofighter_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-02-09 18:31:07,504 [foofighter_wrapper] INFO: STARTING STEP 127
+2019-02-09 18:31:07,504 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:07,504 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT']
+2019-02-09 18:31:07,507 [foofighter_code] DEBUG: Suitable target found at (11, 6)
+2019-02-09 18:31:07,508 [foofighter_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-02-09 18:31:07,609 [foofighter_wrapper] INFO: STARTING STEP 128
+2019-02-09 18:31:07,609 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:07,609 [foofighter_code] DEBUG: Valid actions: ['DOWN', 'WAIT']
+2019-02-09 18:31:07,612 [foofighter_code] DEBUG: Suitable target found at (11, 5)
+2019-02-09 18:31:07,613 [foofighter_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-02-09 18:31:07,711 [foofighter_wrapper] INFO: STARTING STEP 129
+2019-02-09 18:31:07,711 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:07,711 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
+2019-02-09 18:31:07,715 [foofighter_code] DEBUG: Suitable target found at (11, 6)
+2019-02-09 18:31:07,715 [foofighter_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-02-09 18:31:07,813 [foofighter_wrapper] INFO: STARTING STEP 130
+2019-02-09 18:31:07,813 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:07,813 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'WAIT', 'BOMB']
+2019-02-09 18:31:07,815 [foofighter_code] DEBUG: Suitable target found at (11, 7)
+2019-02-09 18:31:07,815 [foofighter_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-02-09 18:31:07,916 [foofighter_wrapper] INFO: STARTING STEP 131
+2019-02-09 18:31:07,916 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:07,916 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:07,919 [foofighter_code] DEBUG: Suitable target found at (11, 6)
+2019-02-09 18:31:07,920 [foofighter_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-02-09 18:31:08,018 [foofighter_wrapper] INFO: STARTING STEP 132
+2019-02-09 18:31:08,018 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:08,018 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:08,021 [foofighter_code] DEBUG: Suitable target found at (11, 5)
+2019-02-09 18:31:08,022 [foofighter_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-02-09 18:31:08,120 [foofighter_wrapper] INFO: STARTING STEP 133
+2019-02-09 18:31:08,120 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:08,121 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:08,124 [foofighter_code] DEBUG: Suitable target found at (9, 2)
+2019-02-09 18:31:08,124 [foofighter_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-02-09 18:31:08,221 [foofighter_wrapper] INFO: STARTING STEP 134
+2019-02-09 18:31:08,222 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:08,222 [foofighter_code] DEBUG: Valid actions: ['DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:08,229 [foofighter_code] DEBUG: Suitable target found at (10, 1)
+2019-02-09 18:31:08,229 [foofighter_wrapper] INFO: Chose action BOMB after 0.007s of thinking
+2019-02-09 18:31:08,323 [foofighter_wrapper] INFO: STARTING STEP 135
+2019-02-09 18:31:08,324 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:08,324 [foofighter_code] DEBUG: Valid actions: ['DOWN']
+2019-02-09 18:31:08,329 [foofighter_code] DEBUG: Suitable target found at (10, 1)
+2019-02-09 18:31:08,330 [foofighter_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-02-09 18:31:08,431 [foofighter_wrapper] INFO: STARTING STEP 136
+2019-02-09 18:31:08,431 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:08,431 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT']
+2019-02-09 18:31:08,438 [foofighter_code] DEBUG: Suitable target found at (10, 1)
+2019-02-09 18:31:08,438 [foofighter_wrapper] INFO: Chose action RIGHT after 0.007s of thinking
+2019-02-09 18:31:08,533 [foofighter_wrapper] INFO: STARTING STEP 137
+2019-02-09 18:31:08,533 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:08,533 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-02-09 18:31:08,539 [foofighter_code] DEBUG: Suitable target found at (10, 1)
+2019-02-09 18:31:08,539 [foofighter_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
+2019-02-09 18:31:08,635 [foofighter_wrapper] INFO: STARTING STEP 138
+2019-02-09 18:31:08,635 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:08,635 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT']
+2019-02-09 18:31:08,640 [foofighter_code] DEBUG: Suitable target found at (10, 1)
+2019-02-09 18:31:08,640 [foofighter_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-02-09 18:31:08,737 [foofighter_wrapper] INFO: STARTING STEP 139
+2019-02-09 18:31:08,737 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:08,737 [foofighter_code] DEBUG: Valid actions: ['RIGHT', 'WAIT']
+2019-02-09 18:31:08,745 [foofighter_code] DEBUG: Suitable target found at (13, 1)
+2019-02-09 18:31:08,745 [foofighter_wrapper] INFO: Chose action RIGHT after 0.008s of thinking
+2019-02-09 18:31:08,839 [foofighter_wrapper] INFO: STARTING STEP 140
+2019-02-09 18:31:08,839 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:08,839 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:08,844 [foofighter_code] DEBUG: Suitable target found at (10, 1)
+2019-02-09 18:31:08,844 [foofighter_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-02-09 18:31:08,941 [foofighter_wrapper] INFO: STARTING STEP 141
+2019-02-09 18:31:08,941 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:08,941 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:08,944 [foofighter_code] DEBUG: Suitable target found at (11, 3)
+2019-02-09 18:31:08,944 [foofighter_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-02-09 18:31:09,043 [foofighter_wrapper] INFO: STARTING STEP 142
+2019-02-09 18:31:09,043 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:09,043 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:09,045 [foofighter_code] DEBUG: Suitable target found at (12, 3)
+2019-02-09 18:31:09,045 [foofighter_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-02-09 18:31:09,145 [foofighter_wrapper] INFO: STARTING STEP 143
+2019-02-09 18:31:09,145 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:09,145 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:09,147 [foofighter_code] DEBUG: Suitable target found at (13, 3)
+2019-02-09 18:31:09,147 [foofighter_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-02-09 18:31:09,246 [foofighter_wrapper] INFO: STARTING STEP 144
+2019-02-09 18:31:09,247 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:09,247 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:09,249 [foofighter_code] DEBUG: Suitable target found at (14, 3)
+2019-02-09 18:31:09,249 [foofighter_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-02-09 18:31:09,349 [foofighter_wrapper] INFO: STARTING STEP 145
+2019-02-09 18:31:09,350 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:09,350 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:09,351 [foofighter_code] DEBUG: Suitable target found at (15, 3)
+2019-02-09 18:31:09,352 [foofighter_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-02-09 18:31:09,450 [foofighter_wrapper] INFO: STARTING STEP 146
+2019-02-09 18:31:09,451 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:09,451 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:09,452 [foofighter_code] DEBUG: Suitable target found at (15, 2)
+2019-02-09 18:31:09,453 [foofighter_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-02-09 18:31:09,553 [foofighter_wrapper] INFO: STARTING STEP 147
+2019-02-09 18:31:09,553 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:09,553 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:09,554 [foofighter_code] DEBUG: Suitable target found at (15, 1)
+2019-02-09 18:31:09,554 [foofighter_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-02-09 18:31:09,655 [foofighter_wrapper] INFO: STARTING STEP 148
+2019-02-09 18:31:09,655 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:09,655 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:09,657 [foofighter_code] DEBUG: Suitable target found at (14, 1)
+2019-02-09 18:31:09,657 [foofighter_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-02-09 18:31:09,757 [foofighter_wrapper] INFO: STARTING STEP 149
+2019-02-09 18:31:09,758 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:09,758 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:09,759 [foofighter_code] DEBUG: Suitable target found at (13, 1)
+2019-02-09 18:31:09,759 [foofighter_wrapper] INFO: Chose action UP after 0.001s of thinking
+2019-02-09 18:31:09,858 [foofighter_wrapper] INFO: STARTING STEP 150
+2019-02-09 18:31:09,859 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:09,859 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:09,860 [foofighter_code] DEBUG: Suitable target found at (12, 3)
+2019-02-09 18:31:09,860 [foofighter_wrapper] INFO: Chose action DOWN after 0.001s of thinking
+2019-02-09 18:31:09,961 [foofighter_wrapper] INFO: STARTING STEP 151
+2019-02-09 18:31:09,961 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:09,961 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:09,962 [foofighter_code] DEBUG: Suitable target found at (14, 1)
+2019-02-09 18:31:09,963 [foofighter_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-02-09 18:31:10,063 [foofighter_wrapper] INFO: STARTING STEP 152
+2019-02-09 18:31:10,063 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:10,063 [foofighter_code] DEBUG: Valid actions: ['DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:10,064 [foofighter_code] DEBUG: Suitable target found at (14, 1)
+2019-02-09 18:31:10,064 [foofighter_wrapper] INFO: Chose action DOWN after 0.001s of thinking
+2019-02-09 18:31:10,164 [foofighter_wrapper] INFO: STARTING STEP 153
+2019-02-09 18:31:10,165 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:10,165 [foofighter_code] DEBUG: Valid actions: ['WAIT', 'BOMB']
+2019-02-09 18:31:10,166 [foofighter_code] DEBUG: Suitable target found at (15, 3)
+2019-02-09 18:31:10,166 [foofighter_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-02-09 18:31:10,266 [foofighter_wrapper] INFO: STARTING STEP 154
+2019-02-09 18:31:10,267 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:10,267 [foofighter_code] DEBUG: Valid actions: []
+2019-02-09 18:31:10,268 [foofighter_code] DEBUG: Suitable target found at (15, 2)
+2019-02-09 18:31:10,268 [foofighter_wrapper] INFO: Chose action WAIT after 0.001s of thinking
+2019-02-09 18:31:10,369 [foofighter_wrapper] INFO: STARTING STEP 155
+2019-02-09 18:31:10,369 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:10,369 [foofighter_code] DEBUG: Valid actions: []
+2019-02-09 18:31:10,378 [foofighter_code] DEBUG: Suitable target found at (9, 1)
+2019-02-09 18:31:10,378 [foofighter_wrapper] INFO: Chose action WAIT after 0.009s of thinking
+2019-02-09 18:31:10,471 [foofighter_wrapper] INFO: STARTING STEP 156
+2019-02-09 18:31:10,471 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:10,471 [foofighter_code] DEBUG: Valid actions: ['UP']
+2019-02-09 18:31:10,480 [foofighter_code] DEBUG: Suitable target found at (9, 1)
+2019-02-09 18:31:10,480 [foofighter_wrapper] INFO: Chose action UP after 0.009s of thinking
+2019-02-09 18:31:10,573 [foofighter_wrapper] INFO: STARTING STEP 157
+2019-02-09 18:31:10,573 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:10,573 [foofighter_code] DEBUG: Valid actions: ['LEFT']
+2019-02-09 18:31:10,581 [foofighter_code] DEBUG: Suitable target found at (9, 1)
+2019-02-09 18:31:10,581 [foofighter_wrapper] INFO: Chose action LEFT after 0.008s of thinking
+2019-02-09 18:31:10,675 [foofighter_wrapper] INFO: STARTING STEP 158
+2019-02-09 18:31:10,675 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:10,675 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'WAIT']
+2019-02-09 18:31:10,684 [foofighter_code] DEBUG: Suitable target found at (9, 1)
+2019-02-09 18:31:10,684 [foofighter_wrapper] INFO: Chose action LEFT after 0.009s of thinking
+2019-02-09 18:31:10,777 [foofighter_wrapper] INFO: STARTING STEP 159
+2019-02-09 18:31:10,777 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:10,777 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:10,785 [foofighter_code] DEBUG: Suitable target found at (9, 1)
+2019-02-09 18:31:10,785 [foofighter_wrapper] INFO: Chose action LEFT after 0.008s of thinking
+2019-02-09 18:31:10,878 [foofighter_wrapper] INFO: STARTING STEP 160
+2019-02-09 18:31:10,879 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:10,879 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:10,888 [foofighter_code] DEBUG: Suitable target found at (9, 1)
+2019-02-09 18:31:10,888 [foofighter_wrapper] INFO: Chose action LEFT after 0.009s of thinking
+2019-02-09 18:31:10,979 [foofighter_wrapper] INFO: STARTING STEP 161
+2019-02-09 18:31:10,980 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:10,980 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:10,982 [foofighter_code] DEBUG: Suitable target found at (13, 4)
+2019-02-09 18:31:10,983 [foofighter_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-02-09 18:31:11,082 [foofighter_wrapper] INFO: STARTING STEP 162
+2019-02-09 18:31:11,082 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:11,082 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:11,083 [foofighter_code] DEBUG: Suitable target found at (13, 3)
+2019-02-09 18:31:11,083 [foofighter_wrapper] INFO: Chose action DOWN after 0.001s of thinking
+2019-02-09 18:31:11,183 [foofighter_wrapper] INFO: STARTING STEP 163
+2019-02-09 18:31:11,184 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:11,184 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:11,185 [foofighter_code] DEBUG: Suitable target found at (12, 3)
+2019-02-09 18:31:11,185 [foofighter_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-02-09 18:31:11,285 [foofighter_wrapper] INFO: STARTING STEP 164
+2019-02-09 18:31:11,286 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:11,286 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN']
+2019-02-09 18:31:11,296 [foofighter_code] DEBUG: Suitable target found at (7, 3)
+2019-02-09 18:31:11,296 [foofighter_wrapper] INFO: Chose action UP after 0.010s of thinking
+2019-02-09 18:31:11,388 [foofighter_wrapper] INFO: STARTING STEP 165
+2019-02-09 18:31:11,389 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:11,389 [foofighter_code] DEBUG: Valid actions: ['UP', 'WAIT']
+2019-02-09 18:31:11,391 [foofighter_code] DEBUG: Suitable target found at (13, 3)
+2019-02-09 18:31:11,391 [foofighter_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-02-09 18:31:11,489 [foofighter_wrapper] INFO: STARTING STEP 166
+2019-02-09 18:31:11,490 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:11,490 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT']
+2019-02-09 18:31:11,492 [foofighter_code] DEBUG: Suitable target found at (13, 4)
+2019-02-09 18:31:11,492 [foofighter_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-02-09 18:31:11,591 [foofighter_wrapper] INFO: STARTING STEP 167
+2019-02-09 18:31:11,592 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:11,592 [foofighter_code] DEBUG: Valid actions: ['RIGHT']
+2019-02-09 18:31:11,593 [foofighter_code] DEBUG: Suitable target found at (13, 3)
+2019-02-09 18:31:11,593 [foofighter_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-02-09 18:31:11,693 [foofighter_wrapper] INFO: STARTING STEP 168
+2019-02-09 18:31:11,694 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:11,694 [foofighter_code] DEBUG: Valid actions: ['RIGHT', 'DOWN', 'WAIT']
+2019-02-09 18:31:11,695 [foofighter_code] DEBUG: Suitable target found at (13, 4)
+2019-02-09 18:31:11,695 [foofighter_wrapper] INFO: Chose action DOWN after 0.001s of thinking
+2019-02-09 18:31:11,795 [foofighter_wrapper] INFO: STARTING STEP 169
+2019-02-09 18:31:11,796 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:11,796 [foofighter_code] DEBUG: Valid actions: ['UP', 'WAIT', 'BOMB']
+2019-02-09 18:31:11,798 [foofighter_code] DEBUG: Suitable target found at (13, 5)
+2019-02-09 18:31:11,798 [foofighter_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-02-09 18:31:11,898 [foofighter_wrapper] INFO: STARTING STEP 170
+2019-02-09 18:31:11,898 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:11,898 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:11,900 [foofighter_code] DEBUG: Suitable target found at (13, 6)
+2019-02-09 18:31:11,900 [foofighter_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-02-09 18:31:11,999 [foofighter_wrapper] INFO: STARTING STEP 171
+2019-02-09 18:31:12,000 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:12,000 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:12,003 [foofighter_code] DEBUG: Suitable target found at (13, 7)
+2019-02-09 18:31:12,003 [foofighter_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-02-09 18:31:12,101 [foofighter_wrapper] INFO: STARTING STEP 172
+2019-02-09 18:31:12,102 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:12,102 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:12,111 [foofighter_code] DEBUG: Suitable target found at (13, 7)
+2019-02-09 18:31:12,111 [foofighter_wrapper] INFO: Chose action DOWN after 0.009s of thinking
+2019-02-09 18:31:12,210 [foofighter_wrapper] INFO: STARTING STEP 173
+2019-02-09 18:31:12,210 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:12,210 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:12,212 [foofighter_code] DEBUG: Suitable target found at (14, 7)
+2019-02-09 18:31:12,212 [foofighter_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-02-09 18:31:12,311 [foofighter_wrapper] INFO: STARTING STEP 174
+2019-02-09 18:31:12,311 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:12,311 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:12,314 [foofighter_code] DEBUG: Suitable target found at (15, 7)
+2019-02-09 18:31:12,314 [foofighter_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-02-09 18:31:12,412 [foofighter_wrapper] INFO: STARTING STEP 175
+2019-02-09 18:31:12,413 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:12,413 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:12,415 [foofighter_code] DEBUG: Suitable target found at (15, 8)
+2019-02-09 18:31:12,415 [foofighter_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-02-09 18:31:12,514 [foofighter_wrapper] INFO: STARTING STEP 176
+2019-02-09 18:31:12,515 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:12,515 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:12,518 [foofighter_code] DEBUG: Suitable target found at (15, 9)
+2019-02-09 18:31:12,518 [foofighter_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-02-09 18:31:12,616 [foofighter_wrapper] INFO: STARTING STEP 177
+2019-02-09 18:31:12,617 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:12,617 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:12,619 [foofighter_code] DEBUG: Suitable target found at (15, 8)
+2019-02-09 18:31:12,619 [foofighter_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-02-09 18:31:12,719 [foofighter_wrapper] INFO: STARTING STEP 178
+2019-02-09 18:31:12,719 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:12,719 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:12,721 [foofighter_code] DEBUG: Suitable target found at (15, 9)
+2019-02-09 18:31:12,721 [foofighter_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-02-09 18:31:12,820 [foofighter_wrapper] INFO: STARTING STEP 179
+2019-02-09 18:31:12,821 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:12,821 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:12,822 [foofighter_code] DEBUG: Suitable target found at (15, 8)
+2019-02-09 18:31:12,822 [foofighter_wrapper] INFO: Chose action DOWN after 0.001s of thinking
+2019-02-09 18:31:12,922 [foofighter_wrapper] INFO: STARTING STEP 180
+2019-02-09 18:31:12,923 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:12,923 [foofighter_code] DEBUG: Valid actions: ['UP', 'WAIT', 'BOMB']
+2019-02-09 18:31:12,924 [foofighter_code] DEBUG: Suitable target found at (15, 7)
+2019-02-09 18:31:12,924 [foofighter_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-02-09 18:31:13,028 [foofighter_wrapper] INFO: STARTING STEP 181
+2019-02-09 18:31:13,029 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:13,029 [foofighter_code] DEBUG: Valid actions: ['UP']
+2019-02-09 18:31:13,039 [foofighter_code] DEBUG: Suitable target found at (15, 13)
+2019-02-09 18:31:13,039 [foofighter_wrapper] INFO: Chose action UP after 0.010s of thinking
+2019-02-09 18:31:13,128 [foofighter_wrapper] INFO: STARTING STEP 182
+2019-02-09 18:31:13,129 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:13,129 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'UP', 'WAIT']
+2019-02-09 18:31:13,130 [foofighter_code] DEBUG: Suitable target found at (14, 7)
+2019-02-09 18:31:13,130 [foofighter_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-02-09 18:31:13,231 [foofighter_wrapper] INFO: STARTING STEP 183
+2019-02-09 18:31:13,231 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:13,231 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-02-09 18:31:13,233 [foofighter_code] DEBUG: Suitable target found at (13, 7)
+2019-02-09 18:31:13,233 [foofighter_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-02-09 18:31:13,333 [foofighter_wrapper] INFO: STARTING STEP 184
+2019-02-09 18:31:13,333 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:13,333 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT']
+2019-02-09 18:31:13,334 [foofighter_code] DEBUG: Suitable target found at (13, 8)
+2019-02-09 18:31:13,335 [foofighter_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-02-09 18:31:13,433 [foofighter_wrapper] INFO: STARTING STEP 185
+2019-02-09 18:31:13,434 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:13,434 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2019-02-09 18:31:13,436 [foofighter_code] DEBUG: Suitable target found at (13, 9)
+2019-02-09 18:31:13,436 [foofighter_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-02-09 18:31:13,535 [foofighter_wrapper] INFO: STARTING STEP 186
+2019-02-09 18:31:13,536 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:13,536 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:13,538 [foofighter_code] DEBUG: Suitable target found at (13, 8)
+2019-02-09 18:31:13,538 [foofighter_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-02-09 18:31:13,638 [foofighter_wrapper] INFO: STARTING STEP 187
+2019-02-09 18:31:13,638 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:13,638 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:13,639 [foofighter_code] DEBUG: Suitable target found at (13, 9)
+2019-02-09 18:31:13,639 [foofighter_wrapper] INFO: Chose action DOWN after 0.001s of thinking
+2019-02-09 18:31:13,739 [foofighter_wrapper] INFO: STARTING STEP 188
+2019-02-09 18:31:13,740 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:13,740 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT', 'BOMB']
+2019-02-09 18:31:13,741 [foofighter_code] DEBUG: Suitable target found at (13, 8)
+2019-02-09 18:31:13,741 [foofighter_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-02-09 18:31:13,844 [foofighter_wrapper] INFO: STARTING STEP 189
+2019-02-09 18:31:13,845 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:13,845 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP']
+2019-02-09 18:31:13,854 [foofighter_code] DEBUG: Suitable target found at (13, 11)
+2019-02-09 18:31:13,854 [foofighter_wrapper] INFO: Chose action LEFT after 0.009s of thinking
+2019-02-09 18:31:13,945 [foofighter_wrapper] INFO: STARTING STEP 190
+2019-02-09 18:31:13,946 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:13,946 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'WAIT']
+2019-02-09 18:31:13,948 [foofighter_code] DEBUG: Suitable target found at (13, 9)
+2019-02-09 18:31:13,948 [foofighter_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-02-09 18:31:14,048 [foofighter_wrapper] INFO: STARTING STEP 191
+2019-02-09 18:31:14,049 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:14,049 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
+2019-02-09 18:31:14,052 [foofighter_code] DEBUG: Suitable target found at (14, 9)
+2019-02-09 18:31:14,052 [foofighter_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-02-09 18:31:14,150 [foofighter_wrapper] INFO: STARTING STEP 192
+2019-02-09 18:31:14,151 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:14,151 [foofighter_code] DEBUG: Valid actions: ['DOWN']
+2019-02-09 18:31:14,153 [foofighter_code] DEBUG: Suitable target found at (13, 9)
+2019-02-09 18:31:14,153 [foofighter_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-02-09 18:31:14,253 [foofighter_wrapper] INFO: STARTING STEP 193
+2019-02-09 18:31:14,253 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:14,253 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT']
+2019-02-09 18:31:14,254 [foofighter_code] DEBUG: Suitable target found at (14, 9)
+2019-02-09 18:31:14,255 [foofighter_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-02-09 18:31:14,362 [foofighter_wrapper] INFO: STARTING STEP 194
+2019-02-09 18:31:14,362 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:14,362 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'WAIT', 'BOMB']
+2019-02-09 18:31:14,364 [foofighter_code] DEBUG: Suitable target found at (15, 9)
+2019-02-09 18:31:14,364 [foofighter_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-02-09 18:31:14,462 [foofighter_wrapper] INFO: STARTING STEP 195
+2019-02-09 18:31:14,462 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:14,462 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:14,465 [foofighter_code] DEBUG: Suitable target found at (15, 10)
+2019-02-09 18:31:14,465 [foofighter_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-02-09 18:31:14,563 [foofighter_wrapper] INFO: STARTING STEP 196
+2019-02-09 18:31:14,564 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:14,564 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:14,567 [foofighter_code] DEBUG: Suitable target found at (15, 11)
+2019-02-09 18:31:14,567 [foofighter_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-02-09 18:31:14,665 [foofighter_wrapper] INFO: STARTING STEP 197
+2019-02-09 18:31:14,666 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:14,666 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:14,668 [foofighter_code] DEBUG: Suitable target found at (15, 12)
+2019-02-09 18:31:14,668 [foofighter_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-02-09 18:31:14,767 [foofighter_wrapper] INFO: STARTING STEP 198
+2019-02-09 18:31:14,768 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:14,768 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:14,769 [foofighter_code] DEBUG: Suitable target found at (15, 11)
+2019-02-09 18:31:14,769 [foofighter_wrapper] INFO: Chose action DOWN after 0.001s of thinking
+2019-02-09 18:31:14,869 [foofighter_wrapper] INFO: STARTING STEP 199
+2019-02-09 18:31:14,870 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:14,870 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'UP', 'WAIT', 'BOMB']
+2019-02-09 18:31:14,871 [foofighter_code] DEBUG: Suitable target found at (14, 11)
+2019-02-09 18:31:14,871 [foofighter_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-02-09 18:31:14,973 [foofighter_wrapper] INFO: STARTING STEP 200
+2019-02-09 18:31:14,973 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:14,973 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'UP']
+2019-02-09 18:31:14,983 [foofighter_code] DEBUG: Suitable target found at (13, 11)
+2019-02-09 18:31:14,983 [foofighter_wrapper] INFO: Chose action UP after 0.010s of thinking
+2019-02-09 18:31:15,074 [foofighter_wrapper] INFO: STARTING STEP 201
+2019-02-09 18:31:15,075 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:15,075 [foofighter_code] DEBUG: Valid actions: ['UP', 'WAIT']
+2019-02-09 18:31:15,076 [foofighter_code] DEBUG: Suitable target found at (15, 11)
+2019-02-09 18:31:15,077 [foofighter_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-02-09 18:31:15,178 [foofighter_wrapper] INFO: STARTING STEP 202
+2019-02-09 18:31:15,178 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:15,178 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
+2019-02-09 18:31:15,181 [foofighter_code] DEBUG: Suitable target found at (15, 12)
+2019-02-09 18:31:15,181 [foofighter_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-02-09 18:31:15,279 [foofighter_wrapper] INFO: STARTING STEP 203
+2019-02-09 18:31:15,280 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:15,280 [foofighter_code] DEBUG: Valid actions: ['RIGHT']
+2019-02-09 18:31:15,281 [foofighter_code] DEBUG: Suitable target found at (15, 11)
+2019-02-09 18:31:15,281 [foofighter_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-02-09 18:31:15,382 [foofighter_wrapper] INFO: STARTING STEP 204
+2019-02-09 18:31:15,382 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:15,382 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2019-02-09 18:31:15,384 [foofighter_code] DEBUG: Suitable target found at (15, 12)
+2019-02-09 18:31:15,384 [foofighter_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-02-09 18:31:15,484 [foofighter_wrapper] INFO: STARTING STEP 205
+2019-02-09 18:31:15,484 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:15,484 [foofighter_code] DEBUG: Valid actions: ['UP', 'WAIT', 'BOMB']
+2019-02-09 18:31:15,486 [foofighter_code] DEBUG: Suitable target found at (15, 13)
+2019-02-09 18:31:15,486 [foofighter_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-02-09 18:31:15,586 [foofighter_wrapper] INFO: STARTING STEP 206
+2019-02-09 18:31:15,586 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:15,586 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:15,595 [foofighter_code] DEBUG: Suitable target found at (15, 13)
+2019-02-09 18:31:15,596 [foofighter_wrapper] INFO: Chose action DOWN after 0.010s of thinking
+2019-02-09 18:31:15,688 [foofighter_wrapper] INFO: STARTING STEP 207
+2019-02-09 18:31:15,688 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:15,688 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:15,689 [foofighter_code] DEBUG: Suitable target found at (15, 14)
+2019-02-09 18:31:15,689 [foofighter_wrapper] INFO: Chose action UP after 0.001s of thinking
+2019-02-09 18:31:15,790 [foofighter_wrapper] INFO: STARTING STEP 208
+2019-02-09 18:31:15,790 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:15,790 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:15,793 [foofighter_code] DEBUG: Suitable target found at (15, 15)
+2019-02-09 18:31:15,793 [foofighter_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-02-09 18:31:15,891 [foofighter_wrapper] INFO: STARTING STEP 209
+2019-02-09 18:31:15,892 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:15,892 [foofighter_code] DEBUG: Valid actions: ['UP', 'BOMB']
+2019-02-09 18:31:15,894 [foofighter_code] DEBUG: Suitable target found at (14, 15)
+2019-02-09 18:31:15,894 [foofighter_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-02-09 18:31:15,993 [foofighter_wrapper] INFO: STARTING STEP 210
+2019-02-09 18:31:15,994 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:15,994 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'UP', 'WAIT', 'BOMB']
+2019-02-09 18:31:16,001 [foofighter_code] DEBUG: Suitable target found at (15, 13)
+2019-02-09 18:31:16,001 [foofighter_wrapper] INFO: Chose action UP after 0.007s of thinking
+2019-02-09 18:31:16,094 [foofighter_wrapper] INFO: STARTING STEP 211
+2019-02-09 18:31:16,095 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:16,095 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:16,096 [foofighter_code] DEBUG: Suitable target found at (14, 13)
+2019-02-09 18:31:16,097 [foofighter_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-02-09 18:31:16,196 [foofighter_wrapper] INFO: STARTING STEP 212
+2019-02-09 18:31:16,197 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:16,197 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:16,199 [foofighter_code] DEBUG: Suitable target found at (14, 13)
+2019-02-09 18:31:16,200 [foofighter_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-02-09 18:31:16,299 [foofighter_wrapper] INFO: STARTING STEP 213
+2019-02-09 18:31:16,299 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:16,299 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:16,301 [foofighter_code] DEBUG: Suitable target found at (14, 13)
+2019-02-09 18:31:16,301 [foofighter_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-02-09 18:31:16,400 [foofighter_wrapper] INFO: STARTING STEP 214
+2019-02-09 18:31:16,401 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:16,401 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:16,402 [foofighter_code] DEBUG: Suitable target found at (14, 13)
+2019-02-09 18:31:16,403 [foofighter_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-02-09 18:31:16,502 [foofighter_wrapper] INFO: STARTING STEP 215
+2019-02-09 18:31:16,503 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:16,503 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:16,510 [foofighter_code] DEBUG: Suitable target found at (15, 14)
+2019-02-09 18:31:16,511 [foofighter_wrapper] INFO: Chose action DOWN after 0.008s of thinking
+2019-02-09 18:31:16,605 [foofighter_wrapper] INFO: STARTING STEP 216
+2019-02-09 18:31:16,605 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:16,605 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:16,612 [foofighter_code] DEBUG: Suitable target found at (15, 14)
+2019-02-09 18:31:16,613 [foofighter_wrapper] INFO: Chose action BOMB after 0.008s of thinking
+2019-02-09 18:31:16,706 [foofighter_wrapper] INFO: STARTING STEP 217
+2019-02-09 18:31:16,707 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:16,707 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN']
+2019-02-09 18:31:16,716 [foofighter_code] DEBUG: Suitable target found at (15, 14)
+2019-02-09 18:31:16,716 [foofighter_wrapper] INFO: Chose action UP after 0.009s of thinking
+2019-02-09 18:31:16,812 [foofighter_wrapper] INFO: STARTING STEP 218
+2019-02-09 18:31:16,812 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:16,812 [foofighter_code] DEBUG: Valid actions: ['UP', 'WAIT']
+2019-02-09 18:31:16,813 [foofighter_code] DEBUG: Suitable target found at (13, 13)
+2019-02-09 18:31:16,813 [foofighter_wrapper] INFO: Chose action UP after 0.001s of thinking
+2019-02-09 18:31:16,913 [foofighter_wrapper] INFO: STARTING STEP 219
+2019-02-09 18:31:16,914 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:16,914 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN', 'WAIT']
+2019-02-09 18:31:16,915 [foofighter_code] DEBUG: Suitable target found at (13, 14)
+2019-02-09 18:31:16,915 [foofighter_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-02-09 18:31:17,016 [foofighter_wrapper] INFO: STARTING STEP 220
+2019-02-09 18:31:17,016 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:17,016 [foofighter_code] DEBUG: Valid actions: ['LEFT']
+2019-02-09 18:31:17,018 [foofighter_code] DEBUG: Suitable target found at (13, 13)
+2019-02-09 18:31:17,018 [foofighter_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-02-09 18:31:17,118 [foofighter_wrapper] INFO: STARTING STEP 221
+2019-02-09 18:31:17,119 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:17,119 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN', 'WAIT']
+2019-02-09 18:31:17,120 [foofighter_code] DEBUG: Suitable target found at (13, 14)
+2019-02-09 18:31:17,121 [foofighter_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-02-09 18:31:17,220 [foofighter_wrapper] INFO: STARTING STEP 222
+2019-02-09 18:31:17,220 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:17,220 [foofighter_code] DEBUG: Valid actions: ['UP', 'WAIT', 'BOMB']
+2019-02-09 18:31:17,222 [foofighter_code] DEBUG: Suitable target found at (13, 15)
+2019-02-09 18:31:17,223 [foofighter_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-02-09 18:31:17,322 [foofighter_wrapper] INFO: STARTING STEP 223
+2019-02-09 18:31:17,322 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:17,322 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
+2019-02-09 18:31:17,325 [foofighter_code] DEBUG: Suitable target found at (12, 15)
+2019-02-09 18:31:17,325 [foofighter_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-02-09 18:31:17,424 [foofighter_wrapper] INFO: STARTING STEP 224
+2019-02-09 18:31:17,424 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:17,424 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:17,426 [foofighter_code] DEBUG: Suitable target found at (11, 15)
+2019-02-09 18:31:17,427 [foofighter_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-02-09 18:31:17,525 [foofighter_wrapper] INFO: STARTING STEP 225
+2019-02-09 18:31:17,526 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:17,526 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:17,528 [foofighter_code] DEBUG: Suitable target found at (10, 15)
+2019-02-09 18:31:17,528 [foofighter_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-02-09 18:31:17,628 [foofighter_wrapper] INFO: STARTING STEP 226
+2019-02-09 18:31:17,629 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:17,629 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:17,631 [foofighter_code] DEBUG: Suitable target found at (9, 15)
+2019-02-09 18:31:17,631 [foofighter_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-02-09 18:31:17,730 [foofighter_wrapper] INFO: STARTING STEP 227
+2019-02-09 18:31:17,731 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:17,731 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT', 'BOMB']
+2019-02-09 18:31:17,732 [foofighter_code] DEBUG: Suitable target found at (10, 15)
+2019-02-09 18:31:17,732 [foofighter_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-02-09 18:31:17,832 [foofighter_wrapper] INFO: STARTING STEP 228
+2019-02-09 18:31:17,833 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:17,833 [foofighter_code] DEBUG: Valid actions: ['RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:17,834 [foofighter_code] DEBUG: Suitable target found at (11, 15)
+2019-02-09 18:31:17,834 [foofighter_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-02-09 18:31:17,935 [foofighter_wrapper] INFO: STARTING STEP 229
+2019-02-09 18:31:17,935 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:17,935 [foofighter_code] DEBUG: Valid actions: ['RIGHT']
+2019-02-09 18:31:17,947 [foofighter_code] DEBUG: Suitable target found at (9, 15)
+2019-02-09 18:31:17,947 [foofighter_wrapper] INFO: Chose action RIGHT after 0.012s of thinking
+2019-02-09 18:31:18,036 [foofighter_wrapper] INFO: STARTING STEP 230
+2019-02-09 18:31:18,037 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:18,037 [foofighter_code] DEBUG: Valid actions: ['RIGHT', 'UP', 'WAIT']
+2019-02-09 18:31:18,039 [foofighter_code] DEBUG: Suitable target found at (11, 14)
+2019-02-09 18:31:18,039 [foofighter_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-02-09 18:31:18,139 [foofighter_wrapper] INFO: STARTING STEP 231
+2019-02-09 18:31:18,140 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:18,140 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2019-02-09 18:31:18,141 [foofighter_code] DEBUG: Suitable target found at (11, 13)
+2019-02-09 18:31:18,141 [foofighter_wrapper] INFO: Chose action UP after 0.001s of thinking
+2019-02-09 18:31:18,242 [foofighter_wrapper] INFO: STARTING STEP 232
+2019-02-09 18:31:18,242 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:18,242 [foofighter_code] DEBUG: Valid actions: ['RIGHT', 'UP', 'DOWN', 'WAIT']
+2019-02-09 18:31:18,243 [foofighter_code] DEBUG: Suitable target found at (12, 13)
+2019-02-09 18:31:18,244 [foofighter_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-02-09 18:31:18,344 [foofighter_wrapper] INFO: STARTING STEP 233
+2019-02-09 18:31:18,345 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:18,345 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2019-02-09 18:31:18,346 [foofighter_code] DEBUG: Suitable target found at (12, 13)
+2019-02-09 18:31:18,347 [foofighter_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-02-09 18:31:18,448 [foofighter_wrapper] INFO: STARTING STEP 234
+2019-02-09 18:31:18,448 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:18,448 [foofighter_code] DEBUG: Valid actions: ['RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:18,449 [foofighter_code] DEBUG: Suitable target found at (12, 13)
+2019-02-09 18:31:18,449 [foofighter_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-02-09 18:31:18,548 [foofighter_wrapper] INFO: STARTING STEP 235
+2019-02-09 18:31:18,549 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:18,549 [foofighter_code] DEBUG: Valid actions: ['RIGHT', 'UP', 'DOWN']
+2019-02-09 18:31:18,561 [foofighter_code] DEBUG: Suitable target found at (13, 14)
+2019-02-09 18:31:18,561 [foofighter_wrapper] INFO: Chose action RIGHT after 0.012s of thinking
+2019-02-09 18:31:18,651 [foofighter_wrapper] INFO: STARTING STEP 236
+2019-02-09 18:31:18,651 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:18,651 [foofighter_code] DEBUG: Valid actions: ['RIGHT', 'WAIT']
+2019-02-09 18:31:18,660 [foofighter_code] DEBUG: Suitable target found at (13, 14)
+2019-02-09 18:31:18,661 [foofighter_wrapper] INFO: Chose action RIGHT after 0.010s of thinking
+2019-02-09 18:31:18,752 [foofighter_wrapper] INFO: STARTING STEP 237
+2019-02-09 18:31:18,753 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:18,753 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN', 'WAIT']
+2019-02-09 18:31:18,764 [foofighter_code] DEBUG: Suitable target found at (9, 13)
+2019-02-09 18:31:18,764 [foofighter_wrapper] INFO: Chose action DOWN after 0.011s of thinking
+2019-02-09 18:31:18,855 [foofighter_wrapper] INFO: STARTING STEP 238
+2019-02-09 18:31:18,855 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:18,855 [foofighter_code] DEBUG: Valid actions: ['DOWN', 'WAIT']
+2019-02-09 18:31:18,867 [foofighter_code] DEBUG: Suitable target found at (15, 14)
+2019-02-09 18:31:18,867 [foofighter_wrapper] INFO: Chose action DOWN after 0.012s of thinking
+2019-02-09 18:31:18,957 [foofighter_wrapper] INFO: STARTING STEP 239
+2019-02-09 18:31:18,957 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:18,957 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'UP', 'WAIT']
+2019-02-09 18:31:18,968 [foofighter_code] DEBUG: Suitable target found at (9, 15)
+2019-02-09 18:31:18,968 [foofighter_wrapper] INFO: Chose action LEFT after 0.011s of thinking
+2019-02-09 18:31:19,059 [foofighter_wrapper] INFO: STARTING STEP 240
+2019-02-09 18:31:19,059 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:19,059 [foofighter_code] DEBUG: Valid actions: ['RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:19,061 [foofighter_code] DEBUG: Suitable target found at (11, 15)
+2019-02-09 18:31:19,061 [foofighter_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-02-09 18:31:19,161 [foofighter_wrapper] INFO: STARTING STEP 241
+2019-02-09 18:31:19,161 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:19,161 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'UP', 'WAIT', 'BOMB']
+2019-02-09 18:31:19,163 [foofighter_code] DEBUG: Suitable target found at (10, 15)
+2019-02-09 18:31:19,164 [foofighter_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-02-09 18:31:19,265 [foofighter_wrapper] INFO: STARTING STEP 242
+2019-02-09 18:31:19,265 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:19,265 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:19,268 [foofighter_code] DEBUG: Suitable target found at (9, 15)
+2019-02-09 18:31:19,268 [foofighter_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-02-09 18:31:19,366 [foofighter_wrapper] INFO: STARTING STEP 243
+2019-02-09 18:31:19,366 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:19,366 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT', 'BOMB']
+2019-02-09 18:31:19,375 [foofighter_code] DEBUG: Suitable target found at (9, 15)
+2019-02-09 18:31:19,375 [foofighter_wrapper] INFO: Chose action LEFT after 0.009s of thinking
+2019-02-09 18:31:19,467 [foofighter_wrapper] INFO: STARTING STEP 244
+2019-02-09 18:31:19,468 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:19,468 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-02-09 18:31:19,469 [foofighter_code] DEBUG: Suitable target found at (10, 15)
+2019-02-09 18:31:19,469 [foofighter_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-02-09 18:31:19,569 [foofighter_wrapper] INFO: STARTING STEP 245
+2019-02-09 18:31:19,570 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:19,570 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT', 'BOMB']
+2019-02-09 18:31:19,581 [foofighter_code] DEBUG: Suitable target found at (13, 14)
+2019-02-09 18:31:19,581 [foofighter_wrapper] INFO: Chose action UP after 0.011s of thinking
+2019-02-09 18:31:19,671 [foofighter_wrapper] INFO: STARTING STEP 246
+2019-02-09 18:31:19,672 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:19,672 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:19,685 [foofighter_code] DEBUG: Suitable target found at (13, 14)
+2019-02-09 18:31:19,685 [foofighter_wrapper] INFO: Chose action DOWN after 0.013s of thinking
+2019-02-09 18:31:19,774 [foofighter_wrapper] INFO: STARTING STEP 247
+2019-02-09 18:31:19,774 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:19,774 [foofighter_code] DEBUG: Valid actions: ['RIGHT', 'UP', 'WAIT', 'BOMB']
+2019-02-09 18:31:19,785 [foofighter_code] DEBUG: Suitable target found at (9, 15)
+2019-02-09 18:31:19,786 [foofighter_wrapper] INFO: Chose action UP after 0.011s of thinking
+2019-02-09 18:31:19,875 [foofighter_wrapper] INFO: STARTING STEP 248
+2019-02-09 18:31:19,876 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:19,876 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:19,884 [foofighter_code] DEBUG: Suitable target found at (11, 13)
+2019-02-09 18:31:19,885 [foofighter_wrapper] INFO: Chose action UP after 0.009s of thinking
+2019-02-09 18:31:19,978 [foofighter_wrapper] INFO: STARTING STEP 249
+2019-02-09 18:31:19,978 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:19,978 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
+2019-02-09 18:31:19,988 [foofighter_code] DEBUG: Suitable target found at (12, 13)
+2019-02-09 18:31:19,989 [foofighter_wrapper] INFO: Chose action LEFT after 0.011s of thinking
+2019-02-09 18:31:20,079 [foofighter_wrapper] INFO: STARTING STEP 250
+2019-02-09 18:31:20,079 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:20,079 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:20,087 [foofighter_code] DEBUG: Suitable target found at (11, 13)
+2019-02-09 18:31:20,088 [foofighter_wrapper] INFO: Chose action LEFT after 0.009s of thinking
+2019-02-09 18:31:20,179 [foofighter_wrapper] INFO: STARTING STEP 251
+2019-02-09 18:31:20,180 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:20,180 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:20,190 [foofighter_code] DEBUG: Suitable target found at (10, 13)
+2019-02-09 18:31:20,191 [foofighter_wrapper] INFO: Chose action LEFT after 0.011s of thinking
+2019-02-09 18:31:20,281 [foofighter_wrapper] INFO: STARTING STEP 252
+2019-02-09 18:31:20,282 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:20,282 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:20,291 [foofighter_code] DEBUG: Suitable target found at (9, 13)
+2019-02-09 18:31:20,292 [foofighter_wrapper] INFO: Chose action LEFT after 0.010s of thinking
+2019-02-09 18:31:20,387 [foofighter_wrapper] INFO: STARTING STEP 253
+2019-02-09 18:31:20,387 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:20,387 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:20,397 [foofighter_code] DEBUG: Suitable target found at (8, 13)
+2019-02-09 18:31:20,397 [foofighter_wrapper] INFO: Chose action LEFT after 0.010s of thinking
+2019-02-09 18:31:20,488 [foofighter_wrapper] INFO: STARTING STEP 254
+2019-02-09 18:31:20,489 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:20,489 [foofighter_code] DEBUG: Valid actions: ['RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:20,497 [foofighter_code] DEBUG: Suitable target found at (7, 13)
+2019-02-09 18:31:20,497 [foofighter_wrapper] INFO: Chose action RIGHT after 0.008s of thinking
+2019-02-09 18:31:20,590 [foofighter_wrapper] INFO: STARTING STEP 255
+2019-02-09 18:31:20,591 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:20,591 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:20,592 [foofighter_code] DEBUG: Suitable target found at (7, 12)
+2019-02-09 18:31:20,592 [foofighter_wrapper] INFO: Chose action DOWN after 0.001s of thinking
+2019-02-09 18:31:20,693 [foofighter_wrapper] INFO: STARTING STEP 256
+2019-02-09 18:31:20,694 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:20,694 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:20,696 [foofighter_code] DEBUG: Suitable target found at (7, 11)
+2019-02-09 18:31:20,696 [foofighter_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-02-09 18:31:20,796 [foofighter_wrapper] INFO: STARTING STEP 257
+2019-02-09 18:31:20,796 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:20,796 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'BOMB']
+2019-02-09 18:31:20,798 [foofighter_code] DEBUG: Suitable target found at (8, 11)
+2019-02-09 18:31:20,798 [foofighter_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-02-09 18:31:20,896 [foofighter_wrapper] INFO: STARTING STEP 258
+2019-02-09 18:31:20,897 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:20,897 [foofighter_code] DEBUG: Valid actions: ['DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:20,899 [foofighter_code] DEBUG: Suitable target found at (9, 11)
+2019-02-09 18:31:20,899 [foofighter_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-02-09 18:31:20,998 [foofighter_wrapper] INFO: STARTING STEP 259
+2019-02-09 18:31:20,999 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:20,999 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT', 'BOMB']
+2019-02-09 18:31:21,000 [foofighter_code] DEBUG: Suitable target found at (9, 12)
+2019-02-09 18:31:21,000 [foofighter_wrapper] INFO: Chose action UP after 0.001s of thinking
+2019-02-09 18:31:21,100 [foofighter_wrapper] INFO: STARTING STEP 260
+2019-02-09 18:31:21,101 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:21,101 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:21,102 [foofighter_code] DEBUG: Suitable target found at (9, 11)
+2019-02-09 18:31:21,102 [foofighter_wrapper] INFO: Chose action UP after 0.001s of thinking
+2019-02-09 18:31:21,204 [foofighter_wrapper] INFO: STARTING STEP 261
+2019-02-09 18:31:21,204 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:21,204 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:21,206 [foofighter_code] DEBUG: Suitable target found at (4, 13)
+2019-02-09 18:31:21,206 [foofighter_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-02-09 18:31:21,304 [foofighter_wrapper] INFO: STARTING STEP 262
+2019-02-09 18:31:21,305 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:21,305 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN']
+2019-02-09 18:31:21,306 [foofighter_code] DEBUG: Suitable target found at (4, 13)
+2019-02-09 18:31:21,307 [foofighter_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-02-09 18:31:21,406 [foofighter_wrapper] INFO: STARTING STEP 263
+2019-02-09 18:31:21,407 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:21,407 [foofighter_code] DEBUG: Valid actions: ['RIGHT', 'WAIT']
+2019-02-09 18:31:21,409 [foofighter_code] DEBUG: Suitable target found at (4, 13)
+2019-02-09 18:31:21,409 [foofighter_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-02-09 18:31:21,509 [foofighter_wrapper] INFO: STARTING STEP 264
+2019-02-09 18:31:21,509 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:21,509 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
+2019-02-09 18:31:21,511 [foofighter_code] DEBUG: Suitable target found at (4, 13)
+2019-02-09 18:31:21,511 [foofighter_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-02-09 18:31:21,611 [foofighter_wrapper] INFO: STARTING STEP 265
+2019-02-09 18:31:21,611 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:21,611 [foofighter_code] DEBUG: Valid actions: ['DOWN', 'WAIT']
+2019-02-09 18:31:21,613 [foofighter_code] DEBUG: Suitable target found at (4, 13)
+2019-02-09 18:31:21,614 [foofighter_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-02-09 18:31:21,718 [foofighter_wrapper] INFO: STARTING STEP 266
+2019-02-09 18:31:21,718 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:21,719 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT']
+2019-02-09 18:31:21,722 [foofighter_code] DEBUG: Suitable target found at (4, 13)
+2019-02-09 18:31:21,723 [foofighter_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-02-09 18:31:21,815 [foofighter_wrapper] INFO: STARTING STEP 267
+2019-02-09 18:31:21,815 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:21,815 [foofighter_code] DEBUG: Valid actions: ['RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:21,818 [foofighter_code] DEBUG: Suitable target found at (11, 11)
+2019-02-09 18:31:21,818 [foofighter_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-02-09 18:31:21,915 [foofighter_wrapper] INFO: STARTING STEP 268
+2019-02-09 18:31:21,916 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:21,916 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT', 'BOMB']
+2019-02-09 18:31:21,918 [foofighter_code] DEBUG: Suitable target found at (11, 12)
+2019-02-09 18:31:21,918 [foofighter_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-02-09 18:31:22,018 [foofighter_wrapper] INFO: STARTING STEP 269
+2019-02-09 18:31:22,018 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:22,019 [foofighter_code] DEBUG: Valid actions: ['DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:22,020 [foofighter_code] DEBUG: Suitable target found at (11, 13)
+2019-02-09 18:31:22,020 [foofighter_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-02-09 18:31:22,119 [foofighter_wrapper] INFO: STARTING STEP 270
+2019-02-09 18:31:22,120 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:22,120 [foofighter_code] DEBUG: Valid actions: ['DOWN']
+2019-02-09 18:31:22,123 [foofighter_code] DEBUG: Suitable target found at (4, 13)
+2019-02-09 18:31:22,123 [foofighter_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-02-09 18:31:22,221 [foofighter_wrapper] INFO: STARTING STEP 271
+2019-02-09 18:31:22,222 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:22,222 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-02-09 18:31:22,223 [foofighter_code] DEBUG: Suitable target found at (12, 13)
+2019-02-09 18:31:22,223 [foofighter_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-02-09 18:31:22,323 [foofighter_wrapper] INFO: STARTING STEP 272
+2019-02-09 18:31:22,324 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:22,324 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-02-09 18:31:22,325 [foofighter_code] DEBUG: Suitable target found at (13, 13)
+2019-02-09 18:31:22,325 [foofighter_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-02-09 18:31:22,426 [foofighter_wrapper] INFO: STARTING STEP 273
+2019-02-09 18:31:22,426 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:22,426 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-02-09 18:31:22,427 [foofighter_code] DEBUG: Suitable target found at (13, 14)
+2019-02-09 18:31:22,427 [foofighter_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-02-09 18:31:22,528 [foofighter_wrapper] INFO: STARTING STEP 274
+2019-02-09 18:31:22,528 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:22,528 [foofighter_code] DEBUG: Valid actions: ['RIGHT', 'WAIT']
+2019-02-09 18:31:22,529 [foofighter_code] DEBUG: Suitable target found at (13, 14)
+2019-02-09 18:31:22,529 [foofighter_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-02-09 18:31:22,629 [foofighter_wrapper] INFO: STARTING STEP 275
+2019-02-09 18:31:22,630 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:22,630 [foofighter_code] DEBUG: Valid actions: ['WAIT']
+2019-02-09 18:31:22,631 [foofighter_code] DEBUG: Suitable target found at (13, 15)
+2019-02-09 18:31:22,631 [foofighter_wrapper] INFO: Chose action WAIT after 0.001s of thinking
+2019-02-09 18:31:22,732 [foofighter_wrapper] INFO: STARTING STEP 276
+2019-02-09 18:31:22,732 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:22,732 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'WAIT']
+2019-02-09 18:31:22,735 [foofighter_code] DEBUG: Suitable target found at (4, 13)
+2019-02-09 18:31:22,736 [foofighter_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-02-09 18:31:22,836 [foofighter_wrapper] INFO: STARTING STEP 277
+2019-02-09 18:31:22,836 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:22,836 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT', 'BOMB']
+2019-02-09 18:31:22,840 [foofighter_code] DEBUG: Suitable target found at (4, 13)
+2019-02-09 18:31:22,840 [foofighter_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-02-09 18:31:22,936 [foofighter_wrapper] INFO: STARTING STEP 278
+2019-02-09 18:31:22,937 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:22,937 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2019-02-09 18:31:22,940 [foofighter_code] DEBUG: Suitable target found at (4, 13)
+2019-02-09 18:31:22,940 [foofighter_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-02-09 18:31:23,039 [foofighter_wrapper] INFO: STARTING STEP 279
+2019-02-09 18:31:23,039 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:23,039 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:23,043 [foofighter_code] DEBUG: Suitable target found at (4, 13)
+2019-02-09 18:31:23,044 [foofighter_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-02-09 18:31:23,140 [foofighter_wrapper] INFO: STARTING STEP 280
+2019-02-09 18:31:23,141 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:23,141 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:23,144 [foofighter_code] DEBUG: Suitable target found at (4, 13)
+2019-02-09 18:31:23,144 [foofighter_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-02-09 18:31:23,243 [foofighter_wrapper] INFO: STARTING STEP 281
+2019-02-09 18:31:23,243 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:23,243 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
+2019-02-09 18:31:23,245 [foofighter_code] DEBUG: Suitable target found at (4, 13)
+2019-02-09 18:31:23,245 [foofighter_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-02-09 18:31:23,344 [foofighter_wrapper] INFO: STARTING STEP 282
+2019-02-09 18:31:23,344 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:23,344 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:23,347 [foofighter_code] DEBUG: Suitable target found at (4, 13)
+2019-02-09 18:31:23,347 [foofighter_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-02-09 18:31:23,446 [foofighter_wrapper] INFO: STARTING STEP 283
+2019-02-09 18:31:23,446 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:23,446 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:23,447 [foofighter_code] DEBUG: Suitable target found at (4, 13)
+2019-02-09 18:31:23,447 [foofighter_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-02-09 18:31:23,547 [foofighter_wrapper] INFO: STARTING STEP 284
+2019-02-09 18:31:23,548 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:23,548 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:23,549 [foofighter_code] DEBUG: Suitable target found at (4, 13)
+2019-02-09 18:31:23,549 [foofighter_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-02-09 18:31:23,652 [foofighter_wrapper] INFO: STARTING STEP 285
+2019-02-09 18:31:23,652 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:23,652 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:23,654 [foofighter_code] DEBUG: Suitable target found at (4, 13)
+2019-02-09 18:31:23,654 [foofighter_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-02-09 18:31:23,754 [foofighter_wrapper] INFO: STARTING STEP 286
+2019-02-09 18:31:23,754 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:23,754 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:23,758 [foofighter_code] DEBUG: Suitable target found at (11, 13)
+2019-02-09 18:31:23,758 [foofighter_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-02-09 18:31:23,855 [foofighter_wrapper] INFO: STARTING STEP 287
+2019-02-09 18:31:23,856 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:23,856 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:23,857 [foofighter_code] DEBUG: Suitable target found at (10, 13)
+2019-02-09 18:31:23,857 [foofighter_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-02-09 18:31:23,957 [foofighter_wrapper] INFO: STARTING STEP 288
+2019-02-09 18:31:23,958 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:23,958 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:23,959 [foofighter_code] DEBUG: Suitable target found at (9, 13)
+2019-02-09 18:31:23,959 [foofighter_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-02-09 18:31:24,059 [foofighter_wrapper] INFO: STARTING STEP 289
+2019-02-09 18:31:24,060 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:24,060 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:24,060 [foofighter_code] DEBUG: Suitable target found at (8, 13)
+2019-02-09 18:31:24,061 [foofighter_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-02-09 18:31:24,161 [foofighter_wrapper] INFO: STARTING STEP 290
+2019-02-09 18:31:24,162 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:24,162 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN']
+2019-02-09 18:31:24,173 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:24,173 [foofighter_wrapper] INFO: Chose action UP after 0.011s of thinking
+2019-02-09 18:31:24,264 [foofighter_wrapper] INFO: STARTING STEP 291
+2019-02-09 18:31:24,264 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:24,264 [foofighter_code] DEBUG: Valid actions: ['UP', 'WAIT']
+2019-02-09 18:31:24,265 [foofighter_code] DEBUG: Suitable target found at (9, 13)
+2019-02-09 18:31:24,265 [foofighter_wrapper] INFO: Chose action UP after 0.001s of thinking
+2019-02-09 18:31:24,366 [foofighter_wrapper] INFO: STARTING STEP 292
+2019-02-09 18:31:24,366 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:24,366 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
+2019-02-09 18:31:24,369 [foofighter_code] DEBUG: Suitable target found at (9, 14)
+2019-02-09 18:31:24,369 [foofighter_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-02-09 18:31:24,473 [foofighter_wrapper] INFO: STARTING STEP 293
+2019-02-09 18:31:24,474 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:24,474 [foofighter_code] DEBUG: Valid actions: ['RIGHT']
+2019-02-09 18:31:24,475 [foofighter_code] DEBUG: Suitable target found at (9, 13)
+2019-02-09 18:31:24,476 [foofighter_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-02-09 18:31:24,575 [foofighter_wrapper] INFO: STARTING STEP 294
+2019-02-09 18:31:24,575 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:24,575 [foofighter_code] DEBUG: Valid actions: ['RIGHT', 'UP', 'DOWN', 'WAIT']
+2019-02-09 18:31:24,577 [foofighter_code] DEBUG: Suitable target found at (9, 14)
+2019-02-09 18:31:24,577 [foofighter_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-02-09 18:31:24,677 [foofighter_wrapper] INFO: STARTING STEP 295
+2019-02-09 18:31:24,677 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:24,677 [foofighter_code] DEBUG: Valid actions: ['UP', 'WAIT', 'BOMB']
+2019-02-09 18:31:24,679 [foofighter_code] DEBUG: Suitable target found at (9, 15)
+2019-02-09 18:31:24,679 [foofighter_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-02-09 18:31:24,779 [foofighter_wrapper] INFO: STARTING STEP 296
+2019-02-09 18:31:24,779 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:24,779 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:24,781 [foofighter_code] DEBUG: Suitable target found at (9, 14)
+2019-02-09 18:31:24,781 [foofighter_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-02-09 18:31:24,882 [foofighter_wrapper] INFO: STARTING STEP 297
+2019-02-09 18:31:24,882 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:24,882 [foofighter_code] DEBUG: Valid actions: ['UP', 'WAIT', 'BOMB']
+2019-02-09 18:31:24,884 [foofighter_code] DEBUG: Suitable target found at (9, 13)
+2019-02-09 18:31:24,884 [foofighter_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-02-09 18:31:24,983 [foofighter_wrapper] INFO: STARTING STEP 298
+2019-02-09 18:31:24,983 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:24,983 [foofighter_code] DEBUG: Valid actions: ['UP']
+2019-02-09 18:31:24,990 [foofighter_code] DEBUG: Suitable target found at (9, 12)
+2019-02-09 18:31:24,991 [foofighter_wrapper] INFO: Chose action UP after 0.008s of thinking
+2019-02-09 18:31:25,085 [foofighter_wrapper] INFO: STARTING STEP 299
+2019-02-09 18:31:25,085 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:25,086 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT']
+2019-02-09 18:31:25,088 [foofighter_code] DEBUG: Suitable target found at (10, 13)
+2019-02-09 18:31:25,088 [foofighter_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-02-09 18:31:25,187 [foofighter_wrapper] INFO: STARTING STEP 300
+2019-02-09 18:31:25,188 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:25,188 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-02-09 18:31:25,190 [foofighter_code] DEBUG: Suitable target found at (11, 13)
+2019-02-09 18:31:25,191 [foofighter_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-02-09 18:31:25,289 [foofighter_wrapper] INFO: STARTING STEP 301
+2019-02-09 18:31:25,289 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:25,290 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT']
+2019-02-09 18:31:25,292 [foofighter_code] DEBUG: Suitable target found at (11, 14)
+2019-02-09 18:31:25,293 [foofighter_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-02-09 18:31:25,393 [foofighter_wrapper] INFO: STARTING STEP 302
+2019-02-09 18:31:25,393 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:25,394 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2019-02-09 18:31:25,397 [foofighter_code] DEBUG: Suitable target found at (11, 15)
+2019-02-09 18:31:25,398 [foofighter_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-02-09 18:31:25,494 [foofighter_wrapper] INFO: STARTING STEP 303
+2019-02-09 18:31:25,494 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:25,494 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:25,497 [foofighter_code] DEBUG: Suitable target found at (10, 15)
+2019-02-09 18:31:25,498 [foofighter_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-02-09 18:31:25,596 [foofighter_wrapper] INFO: STARTING STEP 304
+2019-02-09 18:31:25,596 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:25,597 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:25,599 [foofighter_code] DEBUG: Suitable target found at (11, 15)
+2019-02-09 18:31:25,599 [foofighter_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-02-09 18:31:25,698 [foofighter_wrapper] INFO: STARTING STEP 305
+2019-02-09 18:31:25,698 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:25,698 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT', 'BOMB']
+2019-02-09 18:31:25,700 [foofighter_code] DEBUG: Suitable target found at (11, 14)
+2019-02-09 18:31:25,700 [foofighter_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-02-09 18:31:25,800 [foofighter_wrapper] INFO: STARTING STEP 306
+2019-02-09 18:31:25,800 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:25,800 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP']
+2019-02-09 18:31:25,811 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:25,811 [foofighter_wrapper] INFO: Chose action RIGHT after 0.011s of thinking
+2019-02-09 18:31:25,902 [foofighter_wrapper] INFO: STARTING STEP 307
+2019-02-09 18:31:25,902 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:25,902 [foofighter_code] DEBUG: Valid actions: ['RIGHT', 'WAIT']
+2019-02-09 18:31:25,904 [foofighter_code] DEBUG: Suitable target found at (11, 15)
+2019-02-09 18:31:25,904 [foofighter_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-02-09 18:31:26,003 [foofighter_wrapper] INFO: STARTING STEP 308
+2019-02-09 18:31:26,004 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:26,004 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
+2019-02-09 18:31:26,006 [foofighter_code] DEBUG: Suitable target found at (12, 15)
+2019-02-09 18:31:26,007 [foofighter_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-02-09 18:31:26,106 [foofighter_wrapper] INFO: STARTING STEP 309
+2019-02-09 18:31:26,106 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:26,107 [foofighter_code] DEBUG: Valid actions: []
+2019-02-09 18:31:26,108 [foofighter_code] DEBUG: Suitable target found at (13, 15)
+2019-02-09 18:31:26,108 [foofighter_wrapper] INFO: Chose action WAIT after 0.002s of thinking
+2019-02-09 18:31:26,208 [foofighter_wrapper] INFO: STARTING STEP 310
+2019-02-09 18:31:26,208 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:26,209 [foofighter_code] DEBUG: Valid actions: ['DOWN']
+2019-02-09 18:31:26,210 [foofighter_code] DEBUG: Suitable target found at (12, 15)
+2019-02-09 18:31:26,210 [foofighter_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-02-09 18:31:26,318 [foofighter_wrapper] INFO: STARTING STEP 311
+2019-02-09 18:31:26,318 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:26,318 [foofighter_code] DEBUG: Valid actions: ['WAIT', 'BOMB']
+2019-02-09 18:31:26,319 [foofighter_code] DEBUG: Suitable target found at (13, 15)
+2019-02-09 18:31:26,319 [foofighter_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-02-09 18:31:26,418 [foofighter_wrapper] INFO: STARTING STEP 312
+2019-02-09 18:31:26,418 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:26,418 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN']
+2019-02-09 18:31:26,431 [foofighter_code] DEBUG: Suitable target found at (13, 14)
+2019-02-09 18:31:26,431 [foofighter_wrapper] INFO: Chose action UP after 0.013s of thinking
+2019-02-09 18:31:26,520 [foofighter_wrapper] INFO: STARTING STEP 313
+2019-02-09 18:31:26,520 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:26,520 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT']
+2019-02-09 18:31:26,530 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:26,530 [foofighter_wrapper] INFO: Chose action RIGHT after 0.010s of thinking
+2019-02-09 18:31:26,622 [foofighter_wrapper] INFO: STARTING STEP 314
+2019-02-09 18:31:26,622 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:26,622 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-02-09 18:31:26,630 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:26,630 [foofighter_wrapper] INFO: Chose action LEFT after 0.008s of thinking
+2019-02-09 18:31:26,723 [foofighter_wrapper] INFO: STARTING STEP 315
+2019-02-09 18:31:26,723 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:26,723 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT']
+2019-02-09 18:31:26,730 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:26,731 [foofighter_wrapper] INFO: Chose action RIGHT after 0.008s of thinking
+2019-02-09 18:31:26,827 [foofighter_wrapper] INFO: STARTING STEP 316
+2019-02-09 18:31:26,828 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:26,828 [foofighter_code] DEBUG: Valid actions: ['RIGHT', 'WAIT']
+2019-02-09 18:31:26,846 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:26,846 [foofighter_wrapper] INFO: Chose action RIGHT after 0.018s of thinking
+2019-02-09 18:31:26,927 [foofighter_wrapper] INFO: STARTING STEP 317
+2019-02-09 18:31:26,927 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:26,928 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:26,929 [foofighter_code] DEBUG: Suitable target found at (15, 15)
+2019-02-09 18:31:26,929 [foofighter_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-02-09 18:31:27,029 [foofighter_wrapper] INFO: STARTING STEP 318
+2019-02-09 18:31:27,029 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:27,029 [foofighter_code] DEBUG: Valid actions: ['UP', 'WAIT', 'BOMB']
+2019-02-09 18:31:27,030 [foofighter_code] DEBUG: Suitable target found at (15, 15)
+2019-02-09 18:31:27,030 [foofighter_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-02-09 18:31:27,131 [foofighter_wrapper] INFO: STARTING STEP 319
+2019-02-09 18:31:27,131 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:27,131 [foofighter_code] DEBUG: Valid actions: ['UP']
+2019-02-09 18:31:27,140 [foofighter_code] DEBUG: Suitable target found at (15, 14)
+2019-02-09 18:31:27,140 [foofighter_wrapper] INFO: Chose action UP after 0.009s of thinking
+2019-02-09 18:31:27,233 [foofighter_wrapper] INFO: STARTING STEP 320
+2019-02-09 18:31:27,233 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:27,233 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'UP', 'WAIT']
+2019-02-09 18:31:27,235 [foofighter_code] DEBUG: Suitable target found at (14, 15)
+2019-02-09 18:31:27,235 [foofighter_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-02-09 18:31:27,335 [foofighter_wrapper] INFO: STARTING STEP 321
+2019-02-09 18:31:27,335 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:27,335 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-02-09 18:31:27,337 [foofighter_code] DEBUG: Suitable target found at (13, 15)
+2019-02-09 18:31:27,337 [foofighter_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-02-09 18:31:27,436 [foofighter_wrapper] INFO: STARTING STEP 322
+2019-02-09 18:31:27,437 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:27,437 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT']
+2019-02-09 18:31:27,449 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:27,449 [foofighter_wrapper] INFO: Chose action LEFT after 0.012s of thinking
+2019-02-09 18:31:27,539 [foofighter_wrapper] INFO: STARTING STEP 323
+2019-02-09 18:31:27,539 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:27,540 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-02-09 18:31:27,552 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:27,552 [foofighter_wrapper] INFO: Chose action LEFT after 0.013s of thinking
+2019-02-09 18:31:27,641 [foofighter_wrapper] INFO: STARTING STEP 324
+2019-02-09 18:31:27,641 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:27,642 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
+2019-02-09 18:31:27,658 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:27,659 [foofighter_wrapper] INFO: Chose action LEFT after 0.018s of thinking
+2019-02-09 18:31:27,751 [foofighter_wrapper] INFO: STARTING STEP 325
+2019-02-09 18:31:27,751 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:27,751 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:27,762 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:27,762 [foofighter_wrapper] INFO: Chose action LEFT after 0.011s of thinking
+2019-02-09 18:31:27,851 [foofighter_wrapper] INFO: STARTING STEP 326
+2019-02-09 18:31:27,851 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:27,851 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:27,861 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:27,862 [foofighter_wrapper] INFO: Chose action LEFT after 0.011s of thinking
+2019-02-09 18:31:27,953 [foofighter_wrapper] INFO: STARTING STEP 327
+2019-02-09 18:31:27,953 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:27,953 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:27,957 [foofighter_code] DEBUG: Suitable target found at (12, 11)
+2019-02-09 18:31:27,958 [foofighter_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
+2019-02-09 18:31:28,064 [foofighter_wrapper] INFO: STARTING STEP 328
+2019-02-09 18:31:28,064 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:28,064 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:28,067 [foofighter_code] DEBUG: Suitable target found at (11, 11)
+2019-02-09 18:31:28,067 [foofighter_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-02-09 18:31:28,163 [foofighter_wrapper] INFO: STARTING STEP 329
+2019-02-09 18:31:28,163 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:28,163 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:28,165 [foofighter_code] DEBUG: Suitable target found at (10, 11)
+2019-02-09 18:31:28,166 [foofighter_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-02-09 18:31:28,264 [foofighter_wrapper] INFO: STARTING STEP 330
+2019-02-09 18:31:28,265 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:28,265 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
+2019-02-09 18:31:28,266 [foofighter_code] DEBUG: Suitable target found at (11, 11)
+2019-02-09 18:31:28,266 [foofighter_wrapper] INFO: Chose action UP after 0.001s of thinking
+2019-02-09 18:31:28,371 [foofighter_wrapper] INFO: STARTING STEP 331
+2019-02-09 18:31:28,371 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:28,372 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT']
+2019-02-09 18:31:28,374 [foofighter_code] DEBUG: Suitable target found at (11, 12)
+2019-02-09 18:31:28,374 [foofighter_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-02-09 18:31:28,473 [foofighter_wrapper] INFO: STARTING STEP 332
+2019-02-09 18:31:28,473 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:28,473 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:28,482 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:28,482 [foofighter_wrapper] INFO: Chose action LEFT after 0.009s of thinking
+2019-02-09 18:31:28,574 [foofighter_wrapper] INFO: STARTING STEP 333
+2019-02-09 18:31:28,575 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:28,575 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT']
+2019-02-09 18:31:28,585 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:28,585 [foofighter_wrapper] INFO: Chose action RIGHT after 0.010s of thinking
+2019-02-09 18:31:28,677 [foofighter_wrapper] INFO: STARTING STEP 334
+2019-02-09 18:31:28,677 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:28,677 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:28,686 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:28,687 [foofighter_wrapper] INFO: Chose action LEFT after 0.010s of thinking
+2019-02-09 18:31:28,779 [foofighter_wrapper] INFO: STARTING STEP 335
+2019-02-09 18:31:28,779 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:28,779 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT']
+2019-02-09 18:31:28,788 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:28,788 [foofighter_wrapper] INFO: Chose action RIGHT after 0.009s of thinking
+2019-02-09 18:31:28,880 [foofighter_wrapper] INFO: STARTING STEP 336
+2019-02-09 18:31:28,881 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:28,881 [foofighter_code] DEBUG: Valid actions: ['RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:28,892 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:28,893 [foofighter_wrapper] INFO: Chose action RIGHT after 0.012s of thinking
+2019-02-09 18:31:28,982 [foofighter_wrapper] INFO: STARTING STEP 337
+2019-02-09 18:31:28,982 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:28,982 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:28,989 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:28,989 [foofighter_wrapper] INFO: Chose action LEFT after 0.007s of thinking
+2019-02-09 18:31:29,084 [foofighter_wrapper] INFO: STARTING STEP 338
+2019-02-09 18:31:29,084 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:29,084 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:29,093 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:29,093 [foofighter_wrapper] INFO: Chose action LEFT after 0.009s of thinking
+2019-02-09 18:31:29,186 [foofighter_wrapper] INFO: STARTING STEP 339
+2019-02-09 18:31:29,186 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:29,186 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
+2019-02-09 18:31:29,197 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:29,197 [foofighter_wrapper] INFO: Chose action LEFT after 0.011s of thinking
+2019-02-09 18:31:29,287 [foofighter_wrapper] INFO: STARTING STEP 340
+2019-02-09 18:31:29,288 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:29,288 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:29,297 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:29,297 [foofighter_wrapper] INFO: Chose action LEFT after 0.009s of thinking
+2019-02-09 18:31:29,390 [foofighter_wrapper] INFO: STARTING STEP 341
+2019-02-09 18:31:29,390 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:29,390 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:29,397 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:29,397 [foofighter_wrapper] INFO: Chose action LEFT after 0.007s of thinking
+2019-02-09 18:31:29,496 [foofighter_wrapper] INFO: STARTING STEP 342
+2019-02-09 18:31:29,497 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:29,497 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:29,506 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:29,506 [foofighter_wrapper] INFO: Chose action LEFT after 0.009s of thinking
+2019-02-09 18:31:29,593 [foofighter_wrapper] INFO: STARTING STEP 343
+2019-02-09 18:31:29,594 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:29,594 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
+2019-02-09 18:31:29,605 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:29,605 [foofighter_wrapper] INFO: Chose action LEFT after 0.011s of thinking
+2019-02-09 18:31:29,695 [foofighter_wrapper] INFO: STARTING STEP 344
+2019-02-09 18:31:29,695 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:29,695 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:29,696 [foofighter_code] DEBUG: Suitable target found at (8, 13)
+2019-02-09 18:31:29,697 [foofighter_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-02-09 18:31:29,798 [foofighter_wrapper] INFO: STARTING STEP 345
+2019-02-09 18:31:29,798 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:29,798 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN', 'WAIT']
+2019-02-09 18:31:29,799 [foofighter_code] DEBUG: Suitable target found at (8, 13)
+2019-02-09 18:31:29,800 [foofighter_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-02-09 18:31:29,900 [foofighter_wrapper] INFO: STARTING STEP 346
+2019-02-09 18:31:29,900 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:29,900 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:29,901 [foofighter_code] DEBUG: Suitable target found at (9, 13)
+2019-02-09 18:31:29,901 [foofighter_wrapper] INFO: Chose action UP after 0.001s of thinking
+2019-02-09 18:31:30,001 [foofighter_wrapper] INFO: STARTING STEP 347
+2019-02-09 18:31:30,002 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:30,002 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN', 'WAIT']
+2019-02-09 18:31:30,003 [foofighter_code] DEBUG: Suitable target found at (8, 13)
+2019-02-09 18:31:30,003 [foofighter_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-02-09 18:31:30,106 [foofighter_wrapper] INFO: STARTING STEP 348
+2019-02-09 18:31:30,106 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:30,106 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:30,108 [foofighter_code] DEBUG: Suitable target found at (9, 13)
+2019-02-09 18:31:30,108 [foofighter_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-02-09 18:31:30,206 [foofighter_wrapper] INFO: STARTING STEP 349
+2019-02-09 18:31:30,207 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:30,207 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN', 'WAIT']
+2019-02-09 18:31:30,219 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:30,220 [foofighter_wrapper] INFO: Chose action LEFT after 0.013s of thinking
+2019-02-09 18:31:30,308 [foofighter_wrapper] INFO: STARTING STEP 350
+2019-02-09 18:31:30,309 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:30,309 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:30,320 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:30,321 [foofighter_wrapper] INFO: Chose action LEFT after 0.012s of thinking
+2019-02-09 18:31:30,413 [foofighter_wrapper] INFO: STARTING STEP 351
+2019-02-09 18:31:30,413 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:30,414 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:30,427 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:30,427 [foofighter_wrapper] INFO: Chose action RIGHT after 0.014s of thinking
+2019-02-09 18:31:30,527 [foofighter_wrapper] INFO: STARTING STEP 352
+2019-02-09 18:31:30,528 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:30,528 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'WAIT', 'BOMB']
+2019-02-09 18:31:30,541 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:30,541 [foofighter_wrapper] INFO: Chose action BOMB after 0.013s of thinking
+2019-02-09 18:31:30,625 [foofighter_wrapper] INFO: STARTING STEP 353
+2019-02-09 18:31:30,625 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:30,625 [foofighter_code] DEBUG: Valid actions: ['LEFT']
+2019-02-09 18:31:30,637 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:30,637 [foofighter_wrapper] INFO: Chose action LEFT after 0.012s of thinking
+2019-02-09 18:31:30,727 [foofighter_wrapper] INFO: STARTING STEP 354
+2019-02-09 18:31:30,727 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:30,728 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'WAIT']
+2019-02-09 18:31:30,740 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:30,740 [foofighter_wrapper] INFO: Chose action LEFT after 0.013s of thinking
+2019-02-09 18:31:30,829 [foofighter_wrapper] INFO: STARTING STEP 355
+2019-02-09 18:31:30,829 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:30,829 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-02-09 18:31:30,841 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:30,842 [foofighter_wrapper] INFO: Chose action LEFT after 0.013s of thinking
+2019-02-09 18:31:30,933 [foofighter_wrapper] INFO: STARTING STEP 356
+2019-02-09 18:31:30,933 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:30,934 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN']
+2019-02-09 18:31:30,946 [foofighter_code] DEBUG: Suitable target found at (3, 13)
+2019-02-09 18:31:30,946 [foofighter_wrapper] INFO: Chose action DOWN after 0.014s of thinking
+2019-02-09 18:31:31,034 [foofighter_wrapper] INFO: STARTING STEP 357
+2019-02-09 18:31:31,035 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:31,035 [foofighter_code] DEBUG: Valid actions: ['DOWN', 'WAIT']
+2019-02-09 18:31:31,051 [foofighter_code] DEBUG: Suitable target found at (3, 13)
+2019-02-09 18:31:31,052 [foofighter_wrapper] INFO: Chose action DOWN after 0.017s of thinking
+2019-02-09 18:31:31,136 [foofighter_wrapper] INFO: STARTING STEP 358
+2019-02-09 18:31:31,136 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:31,136 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT', 'BOMB']
+2019-02-09 18:31:31,139 [foofighter_code] DEBUG: Suitable target found at (8, 15)
+2019-02-09 18:31:31,139 [foofighter_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-02-09 18:31:31,239 [foofighter_wrapper] INFO: STARTING STEP 359
+2019-02-09 18:31:31,239 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:31,240 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:31,242 [foofighter_code] DEBUG: Suitable target found at (9, 15)
+2019-02-09 18:31:31,243 [foofighter_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-02-09 18:31:31,348 [foofighter_wrapper] INFO: STARTING STEP 360
+2019-02-09 18:31:31,348 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:31,348 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:31,350 [foofighter_code] DEBUG: Suitable target found at (8, 15)
+2019-02-09 18:31:31,350 [foofighter_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-02-09 18:31:31,447 [foofighter_wrapper] INFO: STARTING STEP 361
+2019-02-09 18:31:31,447 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:31,448 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'WAIT', 'BOMB']
+2019-02-09 18:31:31,449 [foofighter_code] DEBUG: Suitable target found at (7, 15)
+2019-02-09 18:31:31,449 [foofighter_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-02-09 18:31:31,549 [foofighter_wrapper] INFO: STARTING STEP 362
+2019-02-09 18:31:31,549 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:31,549 [foofighter_code] DEBUG: Valid actions: ['LEFT']
+2019-02-09 18:31:31,559 [foofighter_code] DEBUG: Suitable target found at (5, 15)
+2019-02-09 18:31:31,559 [foofighter_wrapper] INFO: Chose action LEFT after 0.010s of thinking
+2019-02-09 18:31:31,654 [foofighter_wrapper] INFO: STARTING STEP 363
+2019-02-09 18:31:31,654 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:31,654 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'WAIT']
+2019-02-09 18:31:31,655 [foofighter_code] DEBUG: Suitable target found at (7, 14)
+2019-02-09 18:31:31,656 [foofighter_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-02-09 18:31:31,756 [foofighter_wrapper] INFO: STARTING STEP 364
+2019-02-09 18:31:31,756 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:31,757 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-02-09 18:31:31,759 [foofighter_code] DEBUG: Suitable target found at (7, 13)
+2019-02-09 18:31:31,759 [foofighter_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-02-09 18:31:31,858 [foofighter_wrapper] INFO: STARTING STEP 365
+2019-02-09 18:31:31,858 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:31,858 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'UP']
+2019-02-09 18:31:31,861 [foofighter_code] DEBUG: Suitable target found at (8, 13)
+2019-02-09 18:31:31,861 [foofighter_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-02-09 18:31:31,967 [foofighter_wrapper] INFO: STARTING STEP 366
+2019-02-09 18:31:31,967 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:31,967 [foofighter_code] DEBUG: Valid actions: ['UP', 'WAIT']
+2019-02-09 18:31:31,969 [foofighter_code] DEBUG: Suitable target found at (9, 13)
+2019-02-09 18:31:31,969 [foofighter_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-02-09 18:31:32,068 [foofighter_wrapper] INFO: STARTING STEP 367
+2019-02-09 18:31:32,068 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:32,068 [foofighter_code] DEBUG: Valid actions: ['RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:32,070 [foofighter_code] DEBUG: Suitable target found at (8, 13)
+2019-02-09 18:31:32,070 [foofighter_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-02-09 18:31:32,170 [foofighter_wrapper] INFO: STARTING STEP 368
+2019-02-09 18:31:32,170 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:32,170 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:32,172 [foofighter_code] DEBUG: Suitable target found at (9, 13)
+2019-02-09 18:31:32,172 [foofighter_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-02-09 18:31:32,277 [foofighter_wrapper] INFO: STARTING STEP 369
+2019-02-09 18:31:32,278 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:32,278 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:32,280 [foofighter_code] DEBUG: Suitable target found at (8, 13)
+2019-02-09 18:31:32,280 [foofighter_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-02-09 18:31:32,377 [foofighter_wrapper] INFO: STARTING STEP 370
+2019-02-09 18:31:32,378 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:32,378 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'WAIT']
+2019-02-09 18:31:32,392 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:32,392 [foofighter_wrapper] INFO: Chose action LEFT after 0.014s of thinking
+2019-02-09 18:31:32,479 [foofighter_wrapper] INFO: STARTING STEP 371
+2019-02-09 18:31:32,479 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:32,479 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:32,494 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:32,495 [foofighter_wrapper] INFO: Chose action RIGHT after 0.016s of thinking
+2019-02-09 18:31:32,583 [foofighter_wrapper] INFO: STARTING STEP 372
+2019-02-09 18:31:32,583 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:32,583 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-02-09 18:31:32,592 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:32,592 [foofighter_wrapper] INFO: Chose action LEFT after 0.009s of thinking
+2019-02-09 18:31:32,683 [foofighter_wrapper] INFO: STARTING STEP 373
+2019-02-09 18:31:32,683 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:32,683 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:32,695 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:32,696 [foofighter_wrapper] INFO: Chose action RIGHT after 0.012s of thinking
+2019-02-09 18:31:32,785 [foofighter_wrapper] INFO: STARTING STEP 374
+2019-02-09 18:31:32,785 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:32,785 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-02-09 18:31:32,796 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:32,796 [foofighter_wrapper] INFO: Chose action LEFT after 0.011s of thinking
+2019-02-09 18:31:32,891 [foofighter_wrapper] INFO: STARTING STEP 375
+2019-02-09 18:31:32,891 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:32,891 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:32,902 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:32,902 [foofighter_wrapper] INFO: Chose action RIGHT after 0.011s of thinking
+2019-02-09 18:31:32,992 [foofighter_wrapper] INFO: STARTING STEP 376
+2019-02-09 18:31:32,992 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:32,993 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-02-09 18:31:33,001 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:33,001 [foofighter_wrapper] INFO: Chose action LEFT after 0.009s of thinking
+2019-02-09 18:31:33,094 [foofighter_wrapper] INFO: STARTING STEP 377
+2019-02-09 18:31:33,094 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:33,094 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-02-09 18:31:33,103 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:33,103 [foofighter_wrapper] INFO: Chose action RIGHT after 0.009s of thinking
+2019-02-09 18:31:33,196 [foofighter_wrapper] INFO: STARTING STEP 378
+2019-02-09 18:31:33,196 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:33,196 [foofighter_code] DEBUG: Valid actions: ['RIGHT', 'WAIT']
+2019-02-09 18:31:33,205 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:33,205 [foofighter_wrapper] INFO: Chose action RIGHT after 0.009s of thinking
+2019-02-09 18:31:33,298 [foofighter_wrapper] INFO: STARTING STEP 379
+2019-02-09 18:31:33,298 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:33,298 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:33,308 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:33,309 [foofighter_wrapper] INFO: Chose action LEFT after 0.011s of thinking
+2019-02-09 18:31:33,400 [foofighter_wrapper] INFO: STARTING STEP 380
+2019-02-09 18:31:33,400 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:33,400 [foofighter_code] DEBUG: Valid actions: ['RIGHT', 'WAIT']
+2019-02-09 18:31:33,411 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:33,412 [foofighter_wrapper] INFO: Chose action RIGHT after 0.012s of thinking
+2019-02-09 18:31:33,502 [foofighter_wrapper] INFO: STARTING STEP 381
+2019-02-09 18:31:33,502 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:33,502 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:33,515 [foofighter_code] DEBUG: Suitable target found at (4, 13)
+2019-02-09 18:31:33,515 [foofighter_wrapper] INFO: Chose action LEFT after 0.013s of thinking
+2019-02-09 18:31:33,604 [foofighter_wrapper] INFO: STARTING STEP 382
+2019-02-09 18:31:33,604 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:33,604 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-02-09 18:31:33,614 [foofighter_code] DEBUG: Suitable target found at (5, 13)
+2019-02-09 18:31:33,614 [foofighter_wrapper] INFO: Chose action LEFT after 0.010s of thinking
+2019-02-09 18:31:33,705 [foofighter_wrapper] INFO: STARTING STEP 383
+2019-02-09 18:31:33,706 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:33,706 [foofighter_code] DEBUG: Valid actions: ['RIGHT', 'WAIT']
+2019-02-09 18:31:33,717 [foofighter_code] DEBUG: Suitable target found at (6, 13)
+2019-02-09 18:31:33,717 [foofighter_wrapper] INFO: Chose action RIGHT after 0.011s of thinking
+2019-02-09 18:31:33,808 [foofighter_wrapper] INFO: STARTING STEP 384
+2019-02-09 18:31:33,808 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:33,808 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:33,822 [foofighter_code] DEBUG: Suitable target found at (6, 13)
+2019-02-09 18:31:33,822 [foofighter_wrapper] INFO: Chose action DOWN after 0.014s of thinking
+2019-02-09 18:31:33,910 [foofighter_wrapper] INFO: STARTING STEP 385
+2019-02-09 18:31:33,910 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:33,910 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:33,922 [foofighter_code] DEBUG: Suitable target found at (7, 13)
+2019-02-09 18:31:33,922 [foofighter_wrapper] INFO: Chose action UP after 0.012s of thinking
+2019-02-09 18:31:34,012 [foofighter_wrapper] INFO: STARTING STEP 386
+2019-02-09 18:31:34,012 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:34,013 [foofighter_code] DEBUG: Valid actions: ['DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:34,024 [foofighter_code] DEBUG: Suitable target found at (7, 14)
+2019-02-09 18:31:34,024 [foofighter_wrapper] INFO: Chose action BOMB after 0.012s of thinking
+2019-02-09 18:31:34,114 [foofighter_wrapper] INFO: STARTING STEP 387
+2019-02-09 18:31:34,114 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:34,115 [foofighter_code] DEBUG: Valid actions: ['DOWN']
+2019-02-09 18:31:34,124 [foofighter_code] DEBUG: Suitable target found at (3, 13)
+2019-02-09 18:31:34,124 [foofighter_wrapper] INFO: Chose action DOWN after 0.010s of thinking
+2019-02-09 18:31:34,219 [foofighter_wrapper] INFO: STARTING STEP 388
+2019-02-09 18:31:34,219 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:34,219 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-02-09 18:31:34,223 [foofighter_code] DEBUG: Suitable target found at (7, 11)
+2019-02-09 18:31:34,224 [foofighter_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
+2019-02-09 18:31:34,320 [foofighter_wrapper] INFO: STARTING STEP 389
+2019-02-09 18:31:34,320 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:34,320 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-02-09 18:31:34,323 [foofighter_code] DEBUG: Suitable target found at (8, 11)
+2019-02-09 18:31:34,324 [foofighter_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-02-09 18:31:34,422 [foofighter_wrapper] INFO: STARTING STEP 390
+2019-02-09 18:31:34,422 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:34,422 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-02-09 18:31:34,425 [foofighter_code] DEBUG: Suitable target found at (7, 11)
+2019-02-09 18:31:34,426 [foofighter_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-02-09 18:31:34,523 [foofighter_wrapper] INFO: STARTING STEP 391
+2019-02-09 18:31:34,523 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:34,523 [foofighter_code] DEBUG: Valid actions: ['RIGHT', 'WAIT']
+2019-02-09 18:31:34,526 [foofighter_code] DEBUG: Suitable target found at (8, 11)
+2019-02-09 18:31:34,526 [foofighter_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-02-09 18:31:34,625 [foofighter_wrapper] INFO: STARTING STEP 392
+2019-02-09 18:31:34,625 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:34,625 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT', 'BOMB']
+2019-02-09 18:31:34,627 [foofighter_code] DEBUG: Suitable target found at (9, 11)
+2019-02-09 18:31:34,627 [foofighter_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-02-09 18:31:34,726 [foofighter_wrapper] INFO: STARTING STEP 393
+2019-02-09 18:31:34,727 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:34,727 [foofighter_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:34,728 [foofighter_code] DEBUG: Suitable target found at (9, 12)
+2019-02-09 18:31:34,728 [foofighter_wrapper] INFO: Chose action UP after 0.001s of thinking
+2019-02-09 18:31:34,829 [foofighter_wrapper] INFO: STARTING STEP 394
+2019-02-09 18:31:34,829 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:34,829 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:34,831 [foofighter_code] DEBUG: Suitable target found at (9, 12)
+2019-02-09 18:31:34,831 [foofighter_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-02-09 18:31:34,930 [foofighter_wrapper] INFO: STARTING STEP 395
+2019-02-09 18:31:34,931 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:34,931 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN']
+2019-02-09 18:31:34,942 [foofighter_code] DEBUG: Suitable target found at (7, 5)
+2019-02-09 18:31:34,942 [foofighter_wrapper] INFO: Chose action RIGHT after 0.011s of thinking
+2019-02-09 18:31:35,033 [foofighter_wrapper] INFO: STARTING STEP 396
+2019-02-09 18:31:35,034 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:35,034 [foofighter_code] DEBUG: Valid actions: ['RIGHT', 'WAIT']
+2019-02-09 18:31:35,035 [foofighter_code] DEBUG: Suitable target found at (9, 11)
+2019-02-09 18:31:35,035 [foofighter_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-02-09 18:31:35,135 [foofighter_wrapper] INFO: STARTING STEP 397
+2019-02-09 18:31:35,136 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:35,136 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
+2019-02-09 18:31:35,137 [foofighter_code] DEBUG: Suitable target found at (10, 11)
+2019-02-09 18:31:35,137 [foofighter_wrapper] INFO: Chose action DOWN after 0.001s of thinking
+2019-02-09 18:31:35,238 [foofighter_wrapper] INFO: STARTING STEP 398
+2019-02-09 18:31:35,238 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:35,238 [foofighter_code] DEBUG: Valid actions: ['DOWN', 'WAIT']
+2019-02-09 18:31:35,239 [foofighter_code] DEBUG: Suitable target found at (11, 11)
+2019-02-09 18:31:35,239 [foofighter_wrapper] INFO: Chose action DOWN after 0.001s of thinking
+2019-02-09 18:31:35,339 [foofighter_wrapper] INFO: STARTING STEP 399
+2019-02-09 18:31:35,340 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:35,340 [foofighter_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT']
+2019-02-09 18:31:35,342 [foofighter_code] DEBUG: Suitable target found at (11, 10)
+2019-02-09 18:31:35,342 [foofighter_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-02-09 18:31:35,441 [foofighter_wrapper] INFO: STARTING STEP 400
+2019-02-09 18:31:35,442 [foofighter_code] INFO: Picking action according to rule set
+2019-02-09 18:31:35,442 [foofighter_code] DEBUG: Valid actions: ['DOWN', 'WAIT', 'BOMB']
+2019-02-09 18:31:35,444 [foofighter_code] DEBUG: Suitable target found at (11, 11)
+2019-02-09 18:31:35,444 [foofighter_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-02-09 18:31:35,549 [foofighter_wrapper] INFO: Received exit message for round
+2019-02-09 18:31:35,549 [foofighter_wrapper] INFO: Round #1 finished
